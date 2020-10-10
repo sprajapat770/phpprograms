@@ -1,0 +1,1700 @@
+sku,name,Products_type
+BB_CREAM,"BB CREAM",configurable
+C-BBCD,"BB Cream - Dark",simple
+C-BBCL,"BB Cream - Light",simple
+C-BBCM,"BB Cream - Med",simple
+C-BBCT,"BB Cream - Tan",simple
+blush_compact_color,"Blush - Compact",configurable
+C-B6000C,"Blush - Compact Soft Contour M",simple
+C-B6001C,"Blush - Compact - Contour M",simple
+C-B6002C,"Blush - Compact - Off White Madness M",simple
+C-B6006C,"Blush - Compact - Desert Brown M",simple
+C-B6007C,"Blush - Compact - Creamy Peach M",simple
+C-B6008C,"Blush - Compact - Pleasantly Fresh M",simple
+C-B6009C,"Blush - Compact - Passion Peach M",simple
+C-B6010C,"Blush - Compact - Sandy Pearl M",simple
+C-B6011C,"Blush - Compact - Golden Brown M",simple
+C-B6012C,"Blush - Compact - Hint of Color S",simple
+C-B6013C,"Blush - Compact - Coral Silk M",simple
+C-B6014C,"Blush - Compact - Sunset S",simple
+C-B6015C,"Blush - Compact - Peach M",simple
+C-B6016C,"Blush - Compact - Peachy Keen S",simple
+C-B6017C,"Blush - Compact - Utopia Orange S",simple
+C-B6019C,"Blush - Compact - Sweet Kiss M",simple
+C-B6020C,"Blush - Compact - Coral M",simple
+C-B6021C,"Blush - Compact - Melon S",simple
+C-B6022C,"Blush - Compact - Autumn M",simple
+C-B6024C,"Blush - Compact - Fantastic Rose M",simple
+C-B6025C,"Blush - Compact - Shimmering Pink G",simple
+C-B6026C,"Blush - Compact - Rosey M",simple
+C-B6027C,"Blush - Compact - Burgandy Flame S",simple
+C-B6028C,"Blush - Compact - Powder Pink M",simple
+C-B6030C,"Blush - Compact - Dark Pink M",simple
+C-B6031C,"Blush - Compact - Magical Magenta M",simple
+C-B6032C,"Blush - Compact - Deep Mario M",simple
+C-B6033C,"Blush - Compact - Mauve M",simple
+C-B6034C,"Blush - Compact - Parfait Purple M",simple
+C-B6035C,"Blush - Compact - Radical Violet M",simple
+C-B6037C,"Blush - Compact - Mocha M",simple
+C-B6038C,"Blush - Compact - Coral Kiss S",simple
+C-B6039C,"Blush - Compact - Caarmel Bliss S",simple
+C-B6040C,"Blush - Compact - Touch of Spice M",simple
+C-B6041C,"Blush - Compact - Cinnamon Toast M",simple
+C-B6042C,"Blush - Compact - Dusty Rose M",simple
+C-B6043C,"Blush - Compact - Blossom M",simple
+C-B6044C,"Blush - Compact - Sizzled Red M",simple
+C-B6045C,"Blush - Compact - Magical Pink M",simple
+C-B6046C,"Blush - Compact - Warm Rose M",simple
+C-B6047C,"Blush - Compact - Sex On the Beach M",simple
+C-B6049C,"Blush - Compact - Ice Tea M",simple
+C-B6050C,"Blush - Compact - Rouge Rose M",simple
+C-B6051C,"Blush - Compact - Warm Earth M",simple
+C-B6053C,"Blush - Compact - Rose Petal M",simple
+C-B6054C,"Blush - Compact - Earth M",simple
+C-B6055C,"Blush - Compact - Peachy Penny M",simple
+C-B6058C,"Blush - Compact - Nudeness M",simple
+C-B6072C,"Blush - Compact - Pinky Rose M",simple
+C-B6073C,"Blush - Compact - Champagne Hilighter",simple
+C-B6074C,"Blush - Compact - Burgandy Wine M",simple
+blush_refill_color,"Blush - Refill",configurable
+C-B6000R,"Blush - Refill Soft Contour M",simple
+C-B6001R,"Blush - Refill - Contour M",simple
+C-B6002R,"Blush - Refill - Off White Madness M",simple
+C-B6006R,"Blush - Refill - Desert Brown M",simple
+C-B6007R,"Blush - Refill - Creamy Peach M",simple
+C-B6008R,"Blush - Refill - Pleasantly Fresh M",simple
+C-B6009R,"Blush - Refill - Passion Peach M",simple
+C-B6010R,"Blush - Refill - Sandy Pearl M",simple
+C-B6011R,"Blush - Refill - Golden Brown M",simple
+C-B6012R,"Blush - Refill - Hint of Color S",simple
+C-B6013R,"Blush - Refill - Coral Silk M",simple
+C-B6014R,"Blush - Refill - Sunset S",simple
+C-B6015R,"Blush - Refill - Peach M",simple
+C-B6016R,"Blush - Refill - Peachy Keen S",simple
+C-B6017R,"Blush - Refill - Utopia Orange S",simple
+C-B6019R,"Blush - Refill - Sweet Kiss M",simple
+C-B6020R,"Blush - Refill - Coral M",simple
+C-B6021R,"Blush - Refill - Melon S",simple
+C-B6022R,"Blush - Refill - Autumn M",simple
+C-B6024R,"Blush - Refill - Fantastic Rose M",simple
+C-B6025R,"Blush - Refill - Shimmering Pink G",simple
+C-B6026R,"Blush - Refill - Rosey M",simple
+C-B6027R,"Blush - Refill - Burgandy Flame S",simple
+C-B6028R,"Blush - Refill - Powder Pink M",simple
+C-B6030R,"Blush - Refill - Dark Pink M",simple
+C-B6031R,"Blush - Refill - Magical Magenta M",simple
+C-B6032R,"Blush - Refill - Deep Mario M",simple
+C-B6033R,"Blush - Refill - Mauve M",simple
+C-B6034R,"Blush - Refill - Parfait Purple M",simple
+C-B6035R,"Blush - Refill - Radical Violet M",simple
+C-B6037R,"Blush - Refill - Mocha M",simple
+C-B6038R,"Blush - Refill - Coral Kiss S",simple
+C-B6039R,"Blush - Refill - Caarmel Bliss S",simple
+C-B6040R,"Blush - Refill - Touch of Spice M",simple
+C-B6041R,"Blush - Refill - Cinnamon Toast M",simple
+C-B6042R,"Blush - Refill - Dusty Rose M",simple
+C-B6043R,"Blush - Refill - Blossom M",simple
+C-B6044R,"Blush - Refill - Sizzled Red M",simple
+C-B6045R,"Blush - Refill - Magical Pink M",simple
+C-B6046R,"Blush - Refill - Warm Rose M",simple
+C-B6047R,"Blush - Refill - Sex On the Beach M",simple
+C-B6049R,"Blush - Refill - Ice Tea M",simple
+C-B6050R,"Blush - Refill - Rouge Rose M",simple
+C-B6051R,"Blush - Refill - Warm Earth M",simple
+C-B6053R,"Blush - Refill - Rose Petal M",simple
+C-B6054R,"Blush - Refill - Earth M",simple
+C-B6055R,"Blush - Refill - Peachy Penny M",simple
+C-B6058R,"Blush - Refill - Nudeness M",simple
+C-B6072R,"Blush - Refill - Pinky Rose M",simple
+C-B6073R,"Blush - Refill - Champagne Hilighter",simple
+C-B6074R,"Blush - Refill - Burgandy Wine M",simple
+Brow-Pencil,"Brow Pencil",configurable
+C-EB102,"EB102 Brow Pencil Blonde",simple
+C-EB109,"EB109 Brow Pencil Dark",simple
+C-EB110,"EB110 Brow Pencil Grey",simple
+browfix_color,"Brow Fix",configurable
+C-BF50S,"Brow Fixx 50 Shades",simple
+C-BFAIO,"Brow Fixx All in One",simple
+C-BFB,"Brow Fixx Black",simple
+C-BFBR,"Brow Fixx Brown",simple
+C-BFDC,"Brow Fixx Dark Chocolate",simple
+C-BFM,"Brow Fix Midnight Sky",simple
+browfix_color-1,"DEMO PRODUCT",configurable
+C-BF50S,"Brow Fixx 50 Shades",simple
+C-BFAIO,"Brow Fixx All in One",simple
+C-BFB,"Brow Fixx Black",simple
+C-BFBR,"Brow Fixx Brown",simple
+C-BFDC,"Brow Fixx Dark Chocolate",simple
+C-BFM,"Brow Fix Midnight Sky",simple
+browfix_color-1-1,"DEMO PRODUCT 2",configurable
+C-BF50S,"Brow Fixx 50 Shades",simple
+C-BFAIO,"Brow Fixx All in One",simple
+C-BFB,"Brow Fixx Black",simple
+C-BFBR,"Brow Fixx Brown",simple
+C-BFDC,"Brow Fixx Dark Chocolate",simple
+C-BFM,"Brow Fix Midnight Sky",simple
+compact_bronzer_color,"Compact Bronzer",configurable
+C-B191C,"Compact - B191 PPowder Bronzer 191",simple
+C-B193C,"Compact - B193 PPowder Bronzer 193",simple
+C-B194C,"Compact - Bronzer 194 - 10g",simple
+C-B20C,"Compact - B20 PPowder Bronzer 20",simple
+C-DBDC,"Compact - Duo Bronzer Dark Half Moon",simple
+C-DBLC,"Compact - Duo Bronzer Light Half Moon",simple
+con_stick,"Con Stick",configurable
+C-CS300,"Con Stick Extra Light Porcelain",simple
+C-CS301,"Con Stick Light Porcelain",simple
+C-CS302,"Corrector Stick Porcelain",simple
+C-CS303,"Con Stick Medium Beige",simple
+C-CS304,"Con Stick Dark Tan",simple
+C-CS305,"Con Stick Mocha",simple
+C-CS306,"Con Stick Ebony",simple
+C-CS307,"Con Stick Caramel",simple
+C-CS308,"Con Stick Coffee Bean",simple
+C-CS309,"Con Stick Amber",simple
+C-CS310,"Con Stick Congac",simple
+C-CS311,"Con Stick Medium Light Porcelain",simple
+C-CS312,"Con Stick Medium Porcelian",simple
+C-CS350,"Con Stick Light Ivory",simple
+C-CS351,"Con Stick Ivory",simple
+C-CS352,"Con Stick Medium Ivory",simple
+C-CS353,"Con Stick Medium Tan",simple
+C-CS354,"Con Stick Tan",simple
+C-CS355,"Con Stick Almond",simple
+C-CS356,"Con Stick Golden Honey",simple
+C-CS357,"Con Stick Honey Chestnut",simple
+C-CSL,"Con Stick Lilac",simple
+concealer_pot,"Concealer Pot",configurable
+C-CP700,"Concealer Pot C700 Extra Light Porcelain",simple
+C-CP701,"Concealer Pot C701 Light Porcelain",simple
+C-CP702,"Concealer Pot C702 Porcelain",simple
+C-CP703,"Concealer Pot C703 Medium Beige",simple
+C-CP704,"Concealer Pot C704 Dark Tan",simple
+C-CP705,"Concealer Pot C705 Mocha",simple
+C-CP706,"Concealer Pot C706 Ebony",simple
+C-CP707,"Concealer Pot C707 Caramel",simple
+C-CP708,"Concealer Pot C708 Coffee Bean",simple
+C-CP709,"Concealer Pot C709 Amber",simple
+C-CP710,"Concealer Pot C710 Cognac",simple
+C-CP711,"Concealer Pot C711 Medium Light Porcelain",simple
+C-CP712,"Concealer Pot C712 Medium Porcelain",simple
+C-CP750,"Concealer Pot C750 Light Ivory",simple
+C-CP751,"Concealer Pot C751 Ivory",simple
+C-CP752,"Concealer Pot C752 Medium Ivory",simple
+C-CP753,"Concealer Pot C753 Medium Tan",simple
+C-CP754,"Concealer Pot C754 Tan",simple
+C-CP755,"Concealer Pot C755 Almond",simple
+C-CP756,"Concealer Pot C756 Golden Honey",simple
+C-CP757,"Concealer Pot C757 Honey Chesnut",simple
+Concealer_Pot_Refill,"Concealer Pot Refill",configurable
+C-CP700R,"Refill - C700 Concealer Pot Extra Light Porcelain",simple
+C-CP701R,"Refill - C701 Concealer Pot Light Porcelain",simple
+C-CP702R,"Refill - C702 Concealer Pot Porcelain",simple
+C-CP703R,"Refill - C703 Concealer Pot Medium Beige",simple
+C-CP704R,"Refill - C704 Concealer Pot Dark Tan",simple
+C-CP705R,"Refill - C705 Concealer Pot Mocha",simple
+C-CP706R,"Refill - C706 Concealer Pot Ebony",simple
+C-CP707R,"Refill - C707 Concealer Pot Caramel",simple
+C-CP708R,"Refill - C708 Concealer Pot Coffee Bean",simple
+C-CP709R,"Refill - C709 Concealer Pot Amber",simple
+C-CP750R,"Refill - C750 Concealer Pot Light Ivory",simple
+C-CP751R,"Refill - C751 Concealer Pot Ivory",simple
+C-CP752R,"Refill - C752 Concealer Pot Medium Ivory",simple
+C-CP754R,"Refill - C754 Concealer Pot Tan",simple
+C-CP755R,"Refill - C755 Concealer Pot Almond",simple
+C-CP756R,"Refill - C756 Concealer Pot Golden Honey",simple
+C-CP757R,"Refill - C757 Concealer Pot Honey Chesnut",simple
+Eye-Pencil,"Eye Pencil",configurable
+C-E103,"E103 Eye Pencil Expresso",simple
+C-E104,"E104 Eye Pencil Midnight Blue",simple
+C-E105,"E105 Eye Pencil Taupe",simple
+C-E106,"E106 Eye Pencil White",simple
+C-E107,"E107 Eye Pencil 24KT",simple
+C-E108,"E108 Eye Pencil Babe",simple
+C-E111,"E111 Eye Pencil Brown",simple
+C-E112,"E112 Eye Pencil Forest",simple
+C-E113,"E113 Eye Pencil Fur",simple
+C-E114,"E114 Eye Pencil Leaf",simple
+C-E115,"E115 Eye Pencil Stone",simple
+C-E116,"E116 Eye Pencil Velours",simple
+C-E92,"E92 Eye Pencil Black",simple
+C-E93,"E93 Eye Pencil Dark Brown",simple
+C-E94,"E94 Eye Pencil Emerald",simple
+C-E96,"E96 Eye Pencil Grape",simple
+C-E98,"E98 Eye Pencil Naked",simple
+eyeshadow_color,"Eye Shadow Refill",configurable
+C-ES7001R,"Matte White - Refill (M)",simple
+C-ES7002R,"Tin Man - Pearl - Refill (P)",simple
+C-ES7011R,"Taupe - Pearl - Refill",simple
+C-ES7013R,"Teakwood - Frost - Refill",simple
+C-ES7015R,"Portobello - Matte - Refill",simple
+C-ES7021R,"Glimmer - Pearl - Refill",simple
+C-ES7023R,"Mahogany - Matte - Refill",simple
+C-ES7025R,"Au de Natural - Matte - Refill",simple
+C-ES7029R,"Sienna - Matte - Refill",simple
+C-ES7030R,"Cool Sand - Pearl - Refill",simple
+C-ES7033R,"Coyote - Pearl - Refill",simple
+C-ES7034R,"Brown - Pearl - Refill",simple
+C-ES7036R,"Vanilla Matte - Refill",simple
+C-ES7038R,"Gold Pearl - Pearl - Refill",simple
+C-ES7040R,"Gold - Pearl - Refill",simple
+C-ES7041R,"Canary Yellow - Matte - Refill",simple
+C-ES7042R,"Mango - Matte - Refill",simple
+C-ES7043R,"Sunny Orange - Pearl - Refill",simple
+C-ES7044R,"Palest Peach - Pearl - Refill",simple
+C-ES7045R,"Spring Peach - Matte - Refill",simple
+C-ES7048R,"Silky Coral - Matte - Refill",simple
+C-ES7050R,"Orange - Matte - Refill",simple
+C-ES7051R,"Cranberry - Pearl - Refill",simple
+C-ES7052R,"Sunset Rose - Matte - Refill",simple
+C-ES7053R,"Passion - Matte - Refill",simple
+C-ES7054R,"Hot Red - Matte - Refill",simple
+C-ES7055R,"Rich Mahogany - Refill",simple
+C-ES7058R,"Radical Pink - Refill",simple
+C-ES7059R,"Deep Pink - Matte - Refill",simple
+C-ES7061R,"Dubonnet - Matte - Refill",simple
+C-ES7065R,"Pale Pink - Matte - Refill",simple
+C-ES7068R,"Bittersweet Purple - Refill",simple
+C-ES7069R,"Butterfly Orchid - Refill",simple
+C-ES7070R,"Bellflower Purple Refill",simple
+C-ES7071R,"Powder Purple - Refill",simple
+C-ES7072R,"Purple Orchid - Refill",simple
+C-ES7073R,"Smokey Purple - Refill",simple
+C-ES7078R,"Deep French Blue - Refill",simple
+C-ES7081R,"Ocean Blue - Refill",simple
+C-ES7084R,"Vibrant Blue - Refill",simple
+C-ES7088R,"Soft Aqua - Frost - Refill",simple
+C-ES7089R,"Forest - Pearl - Refill",simple
+C-ES7090R,"Parrot - Frost - Refill",simple
+C-ES7091R,"Jade - Pearl - Refill",simple
+C-ES7092R,"Emerald Fantasy - Refill",simple
+C-ES7094R,"Satan Green - Refill",simple
+C-ES7095R,"Ireland - Frost - Refill",simple
+C-ES7096R,"Lemon - Matte - Refill",simple
+C-ES7099R,"Sage - Matte - Refill",simple
+C-ES7101R,"Dove - Matte - Refill",simple
+C-ES7103R,"Regal Matte - Refill",simple
+C-ES7107R,"Baby Pink - Refill",simple
+C-ES7201R,"White Frost - Refill",simple
+C-ES7202R,"Graphite - Pearl - Refill",simple
+C-ES7203R,"Virgin - Refill",simple
+C-ES7204R,"Butter Cup - Refill",simple
+C-ES7205R,"Atlantis Blue - Refill",simple
+C-ES7206R,"Midnight Blue - Refill",simple
+C-ES7207R,"Day Light - Refill",simple
+C-ES7208R,"Slab - Matte - Refill",simple
+C-ES7209R,"Chocolate Satin - Refill",simple
+C-ES7211R,"Gold Nugget - Refill",simple
+C-ES7212R,"Rose Gold - Refill",simple
+C-ES7213R,"Cognac - Refill",simple
+C-ES7214R,"Half Baked - Refill",simple
+C-ES7215R,"Chiffon - Refill",simple
+C-ES7216R,"Creamy Kiss - Refill",simple
+C-ES7217R,"Khaki Bronze - Refill",simple
+C-ES7218R,"Baby Face - Refill",simple
+C-ES7219R,"Bamboo - Refill",simple
+C-ES7220R,"Crystal Pink - Refill",simple
+C-ES7221R,"Blunt - Refill",simple
+C-ES7222R,"Vintage Gold - Refill",simple
+C-ES7223R,"Misty Pink - Refill",simple
+C-ES7224R,"Pink Crush - Refill",simple
+C-ES7225R,"Irish Green - Refill",simple
+C-ES7226R,"Heaven - Refill",simple
+C-ES7227R,"Brown - Refill",simple
+C-ES7228R,"Amber - Refill",simple
+C-ES7229R,"Slate - Refill",simple
+C-ES7230R,"Poppy - Refill",simple
+C-ES7232R,"Dark Mocha Refill",simple
+C-ES7233R,"Medium Roast - Refill",simple
+C-ES7234R,"Black Out - Refill",simple
+C-ES7235R,"Straw Yellow - Refill",simple
+C-ES7236R,"Goldilocks - Refill",simple
+C-ES7237R,"Celestial Beige - Refill",simple
+C-ES7238R,"Sand Castle - Refill",simple
+C-ES7239R,"Omega - Refill",simple
+C-ES7240R,"Amber Brown - Refill",simple
+C-ES7241R,"Latte - Refill",simple
+C-ES7242R,"Bake Sale - Refill",simple
+C-ES7243R,"Steel - Refill",simple
+C-ES7244R,"Fairy Princess with Glitter - Refill",simple
+C-ES7245R,"Crystal Vallina with Glitter - Refill",simple
+C-ES7246R,"Steel Metallic With Glitter - Refill",simple
+C-ES7247R,"Celestial Blue - Refill",simple
+C-ES7248R,"Love Song - Refill",simple
+C-ES7249R,"Coffee Break - Refill",simple
+C-ES7250R,"Misty Green - Refill",simple
+C-ES7251R,"Deep Violet - Refill",simple
+C-ES7252R,"Star Violet With Glitter - Refill",simple
+C-ES7254R,"Toast - Refill",simple
+C-ES7255R,"Starry Night With Glitter - Refill",simple
+C-ES7257R,"Mildew - Refill",simple
+C-ES7258R,"Bordello - Refill",simple
+C-ES7259R,"Loaded - Refill",simple
+C-ES7260R,"Smog - Refill",simple
+C-ES7261R,"Golden Rod - Refill",simple
+C-ES7262R,"Turquoise - Refill",simple
+C-ES7263R,"After Noon Delight - Refill",simple
+C-ES7264R,"Kush - Refill",simple
+C-ES7267R,"Desert Rose - Refill",simple
+C-ES7268R,"Sailor Kiss - Refill",simple
+C-ES7269R,"Paradise Sky - Refill",simple
+C-ES7270R,"Creamy Green - Refill",simple
+C-ES7271R,"Grass - Refill",simple
+C-ES7272R,"Teal Blue - Refill",simple
+C-ES7273R,"Fusain - Refill",simple
+C-ES7274R,"Purple Rain - Refill",simple
+C-ES7276R,"Salmon - Refill",simple
+C-ES7277R,"Espresso Refill",simple
+C-ES7278R,"Deep Teal - Refill",simple
+C-ES7279R,"Deep Truth - Refill",simple
+C-ES7280R,"Sea Blue - Refill",simple
+C-ES7281R,"Opulence - Refill",simple
+C-ES7282R,"Oceana - Refill",simple
+C-ES7303R,"Irish - Refill",simple
+C-ES7309R,"Barney - Refill",simple
+C-ES7310R,"Brodie Brown - Refill",simple
+C-ES7312R,"Brave - Refill",simple
+C-ES7313R,"Beloved - Refill",simple
+C-ES7314R,"Bella - Refill",simple
+C-ES7315R,"Beyond - Refill",simple
+C-ES7316R,"Star Light - Refill",simple
+C-ES7317R,"Sky - Refill",simple
+C-ES7318R,"Burnt orange - Refill",simple
+C-ES7319R,"Allure - Refill",simple
+C-ES7320R,"Shadow Lady - Refill",simple
+eyeshadow_compact_color,"Eye Shadow Compact",configurable
+C-ES7001C,"Matte White - Compact (M)",simple
+C-ES7002C,"Tin Man - Pearl - Compact (P)",simple
+C-ES7011C,"Taupe - Pearl - Compact",simple
+C-ES7013C,"Teakwood - Frost - Compact",simple
+C-ES7015C,"Portobello - Matte - Compact",simple
+C-ES7021C,"Glimmer - Pearl - Compact",simple
+C-ES7023C,"Mahogany - Matte - Compact",simple
+C-ES7025C,"Au de Natural - Matte - Compact",simple
+C-ES7029C,"Sienna - Matte - Compact",simple
+C-ES7030C,"Cool Sand - Pearl - Compact",simple
+C-ES7033C,"Coyote - Pearl - Compact",simple
+C-ES7034C,"Brown - Pearl - Compact",simple
+C-ES7036C,"Vanilla Matte - Compact",simple
+C-ES7038C,"Gold Pearl - Pearl - Compact",simple
+C-ES7040C,"Gold - Pearl - Compact",simple
+C-ES7041C,"Canary Yellow - Matte - Compact",simple
+C-ES7042C,"Mango - Matte - Compact",simple
+C-ES7043C,"Sunny Orange - Pearl - Compact",simple
+C-ES7044C,"Palest Peach - Pearl - Compact",simple
+C-ES7045C,"Spring Peach - Matte - Compact",simple
+C-ES7048C,"Silky Coral - Matte - Compact",simple
+C-ES7050C,"Orange - Matte - Compact",simple
+C-ES7051C,"Cranberry - Pearl - Compact",simple
+C-ES7052C,"Sunset Rose - Matte - Compact",simple
+C-ES7053C,"Passion - Matte - Compact",simple
+C-ES7054C,"Hot Red - Matte - Compact",simple
+C-ES7055C,"Rich Mahogany - Compact",simple
+C-ES7058C,"Radical Pink - Compact",simple
+C-ES7059C,"Deep Pink - Matte - Compact",simple
+C-ES7061C,"Dubonnet - Matte - Compact",simple
+C-ES7065C,"Pale Pink - Matte - Compact",simple
+C-ES7068C,"Bittersweet Purple - Compact",simple
+C-ES7069C,"Butterfly Orchid - Compact",simple
+C-ES7070C,"Bellflower Purple Compact",simple
+C-ES7071C,"Powder Purple - Compact",simple
+C-ES7072C,"Purple Orchid - Compact",simple
+C-ES7073C,"Smokey Purple - Compact",simple
+C-ES7078C,"Deep French Blue - Compact",simple
+C-ES7081C,"Ocean Blue - Compact",simple
+C-ES7084C,"Vibrant Blue - Compact",simple
+C-ES7088C,"Soft Aqua - Frost - Compact",simple
+C-ES7089C,"Forest - Pearl - Compact",simple
+C-ES7090C,"Parrot - Frost - Compact",simple
+C-ES7091C,"Jade - Pearl - Compact",simple
+C-ES7092C,"Emerald Fantasy - Compact",simple
+C-ES7094C,"Satan Green - Compact",simple
+C-ES7095C,"Ireland - Frost - Compact",simple
+C-ES7096C,"Lemon - Matte - Compact",simple
+C-ES7099C,"Sage - Matte - Compact",simple
+C-ES7101C,"Dove - Matte - Compact",simple
+C-ES7103C,"Regal Matte - Compact",simple
+C-ES7201C,"White Frost - Compact",simple
+C-ES7202C,"Graphite - Pearl - Compact",simple
+C-ES7203C,"Virgin - Compact",simple
+C-ES7204C,"Butter Cup - Compact",simple
+C-ES7205C,"Atlantis Blue - Compact",simple
+C-ES7206C,"Midnight Blue - Compact",simple
+C-ES7207C,"Day Light - Compact",simple
+C-ES7208C,"Slab - Matte - Compact",simple
+C-ES7209C,"Chocolate Satin - Compact",simple
+C-ES7211C,"Gold Nugget - Compact",simple
+C-ES7212C,"Rose Gold - Compact",simple
+C-ES7213C,"Cognac - Compact",simple
+C-ES7214C,"Half Baked - Compact",simple
+C-ES7215C,"Chiffon - Compact",simple
+C-ES7216C,"Creamy Kiss - Compact",simple
+C-ES7217C,"Khaki Bronze - Compact",simple
+C-ES7218C,"Baby Face - Compact",simple
+C-ES7219C,"Bamboo - Compact",simple
+C-ES7220C,"Crystal Pink - Compact",simple
+C-ES7221C,"Blunt - Compact",simple
+C-ES7222C,"Vintage Gold - Compact",simple
+C-ES7223C,"Misty Pink - Compact",simple
+C-ES7224C,"Pink Crush - Compact",simple
+C-ES7225C,"Irish Green - Compact",simple
+C-ES7226C,"Heaven - Compact",simple
+C-ES7227C,"Brown - Compact",simple
+C-ES7228C,"Amber - Compact",simple
+C-ES7229C,"Slate - Compact",simple
+C-ES7230C,"Poppy - Compact",simple
+C-ES7232C,"Dark Mocha Compact",simple
+C-ES7233C,"Medium Roast - Compact",simple
+C-ES7234C,"Black Out - Compact",simple
+C-ES7235C,"Straw Yellow - Compact",simple
+C-ES7236C,"Goldilocks - Compact",simple
+C-ES7237C,"Celestial Beige - Compact",simple
+C-ES7238C,"Sand Castle - Compact",simple
+C-ES7239C,"Omega - Compact",simple
+C-ES7240C,"Amber Brown - Compact",simple
+C-ES7241C,"Latte - Compact",simple
+C-ES7242C,"Bake Sale - Compact",simple
+C-ES7243C,"Steel - Compact",simple
+C-ES7244C,"Fairy Princess with Glitter - Compact",simple
+C-ES7245C,"Crystal Vallina with Glitter - Compact",simple
+C-ES7246C,"Steel Metallic With Glitter - Compact",simple
+C-ES7247C,"Celestial Blue - Compact",simple
+C-ES7248C,"Love Song - Compact",simple
+C-ES7249C,"Coffee Break - Compact",simple
+C-ES7250C,"Misty Green - Compact",simple
+C-ES7251C,"Deep Violet - Compact",simple
+C-ES7252C,"Star Violet With Glitter - Compact",simple
+C-ES7254C,"Toast - Compact",simple
+C-ES7255C,"Starry Night With Glitter - Compact",simple
+C-ES7257C,"Mildew - Compact",simple
+C-ES7258C,"Bordello - Compact",simple
+C-ES7259C,"Loaded - Compact",simple
+C-ES7260C,"Smog - Compact",simple
+C-ES7261C,"Golden Rod - Compact",simple
+C-ES7262C,"Turquoise - Compact",simple
+C-ES7263C,"After Noon Delight - Compact",simple
+C-ES7264C,"Kush - Compact",simple
+C-ES7267C,"Desert Rose - Compact",simple
+C-ES7268C,"Sailor Kiss - Compact",simple
+C-ES7269C,"Paradise Sky - Compact",simple
+C-ES7270C,"Creamy Green - Compact",simple
+C-ES7271C,"Grass - Compact",simple
+C-ES7272C,"Teal Blue - Compact",simple
+C-ES7273C,"Fusain - Compact",simple
+C-ES7274C,"Purple Rain - Compact",simple
+C-ES7276C,"Salmon - Compact",simple
+C-ES7277C,"Espresso Compact",simple
+C-ES7278C,"Deep Teal - Compact",simple
+C-ES7279C,"Deep Truth - Compact",simple
+C-ES7280C,"Sea Blue - Compact",simple
+C-ES7281C,"Opulence - Compact",simple
+C-ES7282C,"Oceana - Compact",simple
+C-ES7303C,"Irish - Compact",simple
+C-ES7309C,"Barney - Compact",simple
+C-ES7310C,"Brodie Brown - Compact",simple
+C-ES7312C,"Brave - Compact",simple
+C-ES7313C,"Beloved - Compact",simple
+C-ES7314C,"Bella - Compact",simple
+C-ES7315C,"Beyond - Compact",simple
+C-ES7316C,"Star Light - Compact",simple
+C-ES7317C,"Sky - Compact",simple
+C-ES7318C,"Burnt orange - Compact",simple
+C-ES7319C,"Allure - Compact",simple
+C-ES7320C,"Shadow Lady - Compact",simple
+Galactic_Gloss,"Galactic Gloss",configurable
+C-GG152,Zodiac,simple
+C-GG153,Neptune,simple
+C-GG154,Luna,simple
+C-GG155,SpaceSuit,simple
+C-GG156,Solar,simple
+C-GG157,Venus,simple
+C-GG158,Earth,simple
+C-GG159,OuterSpace,simple
+C-GG160,Pluto,simple
+Gel-Eyeliner,"Gel Eyeliner",configurable
+C-GEBR,"EG1001 Gel Eyeliner Brown",simple
+C-GEDB,"EG1006 Gel Eyeliner - Dark Brown",simple
+C-GEEP,"EG1002 Gel Eyeliner Egg Plant",simple
+C-GEES,"EG1004 Gel Eyeliner Espresso",simple
+C-GEN,"EG1003 Gel Eyeliner Navy",simple
+C-GETB,"EG6092 Gel Eyeliner True Black",simple
+C-GEW,"EG1005 Gel Eyeliner  white",simple
+glitterdust_color,"Glitter Dust - Standard Packaging",configurable
+"C-GL10-GLSTND P","GL10 Glitter Dust Silver - Standard Packaging",simple
+"C-GL12-GLSTND P","GL12 Glitter Dust Copper - Standard Packaging",simple
+"C-GL14-GLSTND P","GL14 Glitter Dust Ruby Red - Standard Packaging",simple
+"C-GL15-GLSTND P","GL15 Glitter Dust Galaxy - Standard Packaging",simple
+"C-GL16-GLSTND P","GL16 Glitter Dust Lava - Standard Packaging",simple
+"C-GL17-GLSTND P","GL17 Glitter Dust Pinky - Standard Packaging",simple
+"C-GL18-GLSTND P","GL18 Glitter Dust Rusty Gold - Standard Packaging",simple
+"C-GL19-GLSTND P","GL19Glitter Dust Ocean Blue - Standard Packaging",simple
+"C-GL5-GLSTND P","GL5 Glitter Dust Opal - Standard Packaging",simple
+"C-GL6-GLSTND P","GL6 Glitter 24k - Standard Packaging",simple
+"C-GL8-GLSTND P","GL8 Glitter Dust Aqumarine - Standard Packaging",simple
+"C-GL9-GLSTND P","GL9 Glitter Dust Amethyst - Standard Packaging",simple
+HDC_Foundation,"HDC Foundation",configurable
+C-HDC400,"HDC Extra Light Porcelain",simple
+C-HDC401,"HDC Light Porcelain",simple
+C-HDC402,"HDC Porcelain",simple
+C-HDC403,"HDC Medium Beige",simple
+C-HDC404,"HDC Dark Tan",simple
+C-HDC405,"HDC Mocha",simple
+C-HDC406,"HDC Ebony",simple
+C-HDC407,"HDC Caramel",simple
+C-HDC408,"HDC Coffee Bean",simple
+C-HDC409,"HDC Amber",simple
+C-HDC410,"HDC Congac",simple
+C-HDC411,"HDC Medium Light Porcelain",simple
+C-HDC412,"HDC Medium Porcelian",simple
+C-HDC450,"HDC Light Ivory",simple
+C-HDC451,"HDC Ivory",simple
+C-HDC452,"HDC Medium Ivory",simple
+C-HDC453,"HDC Medium Tan",simple
+C-HDC454,"HDC Tan",simple
+C-HDC455,"HDC Almond",simple
+C-HDC456,"HDC Golden Honey",simple
+C-HDC457,"HDC Honey Chesnut",simple
+HDC_Refill,"HD Cream Foundation Refill",configurable
+C-HDC400R,"HDC Foundation 10g Refill - 400 Extra Light Porcelain",simple
+C-HDC401R,"HDC Foundation 10g Refill - 401 Light Porcelai",simple
+C-HDC402R,"HDC Foundation 10g Refill - 402 Porcelian 10g",simple
+C-HDC403R,"HDC Foundation 10g Refill  - 403 Medium Beige10g",simple
+C-HDC404R,"HDC Foundation 10g Refill  - 404  Dark Tan",simple
+C-HDC405R,"HDC Foundation 10g Refill - 405 Mocha 10g",simple
+C-HDC406R,"HDC Foundation 10g Refill - 406 Ebony 10g",simple
+C-HDC407R,"HDC Foundation 10g Refill - 407 Caramel10g",simple
+C-HDC408R,"HDC Foundation 10g Refill - 408 Coffee Bean 10g",simple
+C-HDC409R,"HDC Foundation 10g Refill - 409 Amber 10g",simple
+C-HDC410R,"HDC Foundation 10g Refill - 410 Congac 10g",simple
+C-HDC411R,"HDC Foundation 10g Refill - 411 Medium Light Porcelian 10g",simple
+C-HDC412R,"HDC Foundation 10g Refill - 412 Medium Porcelian 10g",simple
+C-HDC450R,"HDC Foundation 10g Refill - 450 Light Ivory 10g",simple
+C-HDC451R,"HDC Foundation 10g Refill - 451 Ivory 10g",simple
+C-HDC452R,"HDC Foundation 10g Refill - 452 Medium Ivory 10g",simple
+C-HDC453R,"HDC Foundation 10g Refill - 453 Medium Tan10g",simple
+C-HDC454R,"HCD Foundation 10g Refill - 454 Tan 10g",simple
+C-HDC455R,"HDC Foundation 10g Refill - 455 Almond 10g",simple
+C-HDC456R,"HDC Foundation 10g Refill - 456 Golden Honey 10g",simple
+C-HDC457R,"HDC Foundation 10g Refill -  457 Honey Chesnut 10g",simple
+hdl_foundation_15,"HDL Foundation 15ml",configurable
+C-HDL100/15,"15ml - HDL100 - Extra Light Porcelain HD Foundation",simple
+C-HDL101/15,"15ml - HDL101 - Light Porcelain HD Foundation",simple
+C-HDL102/15,"15ml - HDL102 Porcelain HD Foundation",simple
+C-HDL103/15,"15ml - HDL103 Medium Beige HD Foundation",simple
+C-HDL104/15,"15ml- HDL104 Dark Tan HD Foundation",simple
+C-HDL105/15,"15ml- HDL105  Mocha HD Foundation",simple
+C-HDL106/15,"15ml - HDL106 Ebony HD Foundation",simple
+C-HDL107/15,"15ml - HDL107 - Caramel HD Foundation",simple
+C-HDL108/15,"15ml - HDL108 Coffee Bean HD Foundation",simple
+C-HDL109/15,"15ml - HDL109 Amber HD Foundation",simple
+C-HDL110/15,"15ml - HDL110 Congac HD Foundation",simple
+C-HDL111/15,"15ml - HDL111 Medium Light Porcelain HD Foundation",simple
+C-HDL112/15,"15ml - HDL112 Medium Porcelain HD Foundation",simple
+C-HDL113/15,"15ml - HDL113 Coca HD Foundation",simple
+C-HDL150/15,"15ml - HDL150 - Light Ivory HD Foundation",simple
+C-HDL151/15,"15ml - HDL151 Ivory HD Foundation",simple
+C-HDL152/15,"15ml - HDL152 Medium Ivory HD Foundation",simple
+C-HDL153/15,"15ml - HDL153 Medium Tan HD Foundation",simple
+C-HDL154/15,"15ml - HDL154 Tan HD Foundation",simple
+C-HDL155/15,"15m - HDL155l Almond HD Foundation",simple
+C-HDL156/15,"15ml - HDL156 Golden Honey HD Foundation",simple
+C-HDL157/15,"15ml - HDL157 Honey Chesnut HD Foundation",simple
+C-HDL158/15,"15ml - HDL158 Toasty Coffee HD Foundation",simple
+C-HDL159/15,"15ml - HDL159 Sable HD Foundation",simple
+C-HDL160/15,"15ml - HDL160 Roasted Coffee HD Foundation",simple
+C-HDLAA/15,"HDL Apricot Adjuster 15ml",simple
+C-HDLBEXT/15,"HDL - Adjuster - Black - 15ml",simple
+C-HDLGA/15,"HDL Gold Adjuster 15ml",simple
+C-HDLPA/15,"HDL Peach Adjuster 15ml",simple
+C-HDLW/15,"HDL - White Adjuster - 15ml",simple
+HDL_Foundation_30,"HDL Foundation 30ml",configurable
+C-HDL100/30,"Extra Light Porcelain - 30ml",simple
+C-HDL101/30,"Light Porcelain - 30ml",simple
+C-HDL102/30,"Porcelain - 30ml",simple
+C-HDL103/30,"Medium Beige - 30ml",simple
+C-HDL104/30,"Dark Tan - 30ml",simple
+C-HDL105/30,"Mocha - 30ml",simple
+C-HDL106/30,"Ebony - 30ml",simple
+C-HDL107/30,"Caramel - 30ml",simple
+C-HDL108/30,"Coffee Bean - 30ml",simple
+C-HDL109/30,"Amber - 30ml",simple
+C-HDL110/30,"Congac - 30ml",simple
+C-HDL111/30,"Medium Light Porcelain - 30ml",simple
+C-HDL112/30,"Medium Porcelain - 30ml",simple
+C-HDL113/30,"Coca - 30ml",simple
+C-HDL150/30,"Light Ivory - 30ml",simple
+C-HDL151/30,"Ivory - 30ml",simple
+C-HDL152/30,"Medium Ivory - 30ml",simple
+C-HDL153/30,"Medium Tan - 30ml",simple
+C-HDL154/30,"Tan - 30ml",simple
+C-HDL155/30,"Almond - 30ml",simple
+C-HDL156/30,"Golden Honey - 30ml",simple
+C-HDL157/30,"Golden Chesnut - 30ml",simple
+C-HDL158/30,"Toasty Coffee - 30ml",simple
+C-HDL159/30,"Sable - 30ml",simple
+C-HDL160/30,"Roasted Coffee - 30ml",simple
+C-HDLAA/30,"Apricot Adjuster - 30ml",simple
+C-HDLBEXT/30,"AdjusterBlack - 30ml",simple
+C-HDLGA/30,"Gold Adjuster - 30ml",simple
+C-HDLPA/30,"Peach Adjuster - 30ml",simple
+C-HDLW/30,"White Adjuster - 30ml",simple
+illuminator_color,Illuminator,configurable
+C-ILLG,"15ml Gold Illuminator",simple
+C-ILLPL,"15ml Platinum Illuminator",simple
+C-ILLRG,"15ml Rusty Copper Illuminator",simple
+Lip_Plumper,"Lip Plumper",configurable
+C-LPC,"Lip Plumper - All Natual Cinnamon 4ml",simple
+C-LPS,"Lip Plumper Strawberry 4ml",simple
+Lip-Pencil,"Lip Pencil",configurable
+C-L100,"Lip Pencil 89% Chocolate",simple
+C-L101,"Lip Pencil Apricot",simple
+C-L102,"Lip Pencil Black Berry",simple
+C-L103,"Lip Pencil Blush",simple
+C-L104,"Lip Pencil Bubble",simple
+C-L105,"L105 Lip Pencil Electra",simple
+C-L106,"Lip Pencil Choco",simple
+C-L107,"Lip Pencil Cinnabun",simple
+C-L108,"Lip Pencil Digg It",simple
+C-L109,"Lip Pencil Flambe",simple
+C-L110,"Lip Pencil Golden",simple
+C-L111,"Lip Pencil Happy",simple
+C-L112,"Lip Pencil Hope",simple
+C-L113,"Lip Pencil Hot Lip's",simple
+C-L114,"Lip Pencil Kiss",simple
+C-L116,"Lip Pencil Mocha",simple
+C-L118,"Lip Pencil Raspberry",simple
+C-L119,"Lip Pencil Red Brick",simple
+C-L120,"Lip Pencil Smile",simple
+C-L121,"Lip Pencil Spun Silk",simple
+C-L122,"Lip Pencil Taffy",simple
+C-L123,"Lip Pencil Truffle",simple
+C-L124,"Lip Pencil Sandy",simple
+C-L125,"Lip Pencil Quartz",simple
+C-L126,"Lip Pencil Red wood",simple
+C-L127,"Lip Pencil Swirl",simple
+C-L128,"Lip Pencil Sangria",simple
+C-L129,"Lip Pencil Brownie",simple
+C-L130,"Lip Pencil Lux",simple
+C-L131,"Lip Pencil Poppy",simple
+C-L132,"Lip Pencil Crush",simple
+C-L133,"Lip Pencil So Pink",simple
+C-L134,"Lip Pencil Plum",simple
+C-L135,"Lip Pencil Glamour",simple
+C-L136,"Lip Pencil Terra",simple
+C-L137,"Lip Pencil Auburn",simple
+C-L52,"Lip Pencil Cherry",simple
+C-L53,"Lip Pencil Cinnamon",simple
+C-L54,"Lip Pencil Mango",simple
+C-L55,"Lip Pencil Maple",simple
+C-L56,"Lip Pencil Vermouth",simple
+C-L66,"Lip Pencil Apple",simple
+lipconditioner_color,"Lip Conditioner",configurable
+C-LCD10B-GJ,"Lip Conditioner Blue RaspBerry",simple
+C-LCD10C-GJ,"Lip Conditioner Chocolate",simple
+C-LCD10P-GJ,"Lip Conditioner Pina Colada",simple
+C-LCD10S-GJ,"Lip Conditioner Strawberry",simple
+C-LCD10V-GJ,"Lip Conditioner Vanilla",simple
+lipgloss_color,"Lip Gloss",configurable
+C-LG120-LGSTNDP,Shy,simple
+C-LG121-LGSTNDP,Cinnamon,simple
+C-LG122-LGSTNDP,Rose,simple
+C-LG123-LGSTNDP,Firedown,simple
+C-LG124-LGSTNDP,Dazzle,simple
+C-LG125-LGSTNDP,Princess,simple
+C-LG126-LGSTNDP,Baby,simple
+C-LG127-LGSTNDP,Love,simple
+C-LG128-LGSTNDP,"Peachy #2",simple
+C-LG129-LGSTNDP,Naked,simple
+C-LG130-LGSTNDP,Nude,simple
+C-LG131-LGSTNDP,Romance,simple
+C-LG132-LGSTNDP,Bliss,simple
+C-LG133-LGSTNDP,Sherry,simple
+C-LG134-LGSTNDP,Passion,simple
+C-LG135-LGSTNDP,Slick,simple
+C-LG136-LGSTNDP,"Crystal Clear",simple
+C-LG137-LGSTNDP,"Prurple Haze",simple
+C-LG138-LGSTNDP,"Burnt Orange",simple
+C-LG139-LGSTNDP,"Cherry Red",simple
+C-LG140-LGSTNDP,"Gold Kisses",simple
+C-LG142-LGSTNDP,"Midnight Eclipse",simple
+C-LG143-LGSTNDP,Tangerine,simple
+C-LG144-LGSTNDP,"Pure Nude",simple
+C-LG145-LGSTNDP,"Ravishing Pink",simple
+lipscrub_color,"Lip Scrub",configurable
+C-LSC10B-GJ,"Lip Scrub Blue RaspBerry",simple
+C-LSC10C-GJ,"Lip Scrub Chocolate",simple
+C-LSC10PC-GJ,"Lip Scrub Pina Coloda",simple
+C-LSC10S-GJ,"Lip Scrub Strawberry",simple
+C-LSC10V-GJ,"Lip Scrub Vanilla",simple
+Lipstick_Gold_Trim_Packaging,"Lipstick Gold Trim Packaging",configurable
+C-LS8000-LSGT,"Lipstick - Vitamin E - M Gold Trim",simple
+C-LS8001-LSGT,"Gold Kiss - S/F Gold Trim",simple
+C-LS8002-LSGT,"Deep Gold - P Gold Trim",simple
+C-LS8004-LSGT,"Lipstick - Tinsel - P Gold Trim",simple
+C-LS8005-LSGT,"Pale Bronze - P Silver Colar",simple
+C-LS8008-LSGT,"Foxy Brown Gold Trim",simple
+C-LS8009-LSGT,"8009 Copper Rose - P - Gold Trim",simple
+C-LS8011-LSGT,"89% Chocolate - M Gold Trim",simple
+C-LS8012-LSGT,"Mink Brown - C - Gold Trim",simple
+C-LS8013-LSGT,"8013 Lipstick - Twig",simple
+C-LS8014-LSGT,"Sienna - C - Gold Trim",simple
+C-LS8015-LSGT,"8015 Sedona - C - Gold Trim",simple
+C-LS8016-LSGT,"Copper - P - Gold Trim",simple
+C-LS8017-LSGT,"Lipstick - Antique - P - Gold Trim",simple
+C-LS8018-LSGT,"Lipstick - Rondnoir Brown - P Gold Trim",simple
+C-LS8021-LSGT,"Gold Rose - C/P - Gold Trim",simple
+C-LS8022-LSGT,"Bronze - C/P - Gold Trim",simple
+C-LS8023-LSGT,"Hint of Rose - C/P - Gold Trim",simple
+C-LS8024-LSGT,"Dream - S/P - Gold Trim",simple
+C-LS8025-LSGT,"Insirpation - P - Gold Trim",simple
+C-LS8028-LSGT,"Lipstick - Creamy Amber C - Gold Trim",simple
+C-LS8029-LSGT,"Mahogany Crème - Gold Trim",simple
+C-LS8030-LSGT,"Lipstick - Gold Trim",simple
+C-LS8031-LSGT,"Mocha Latte - C - Gold Trim",simple
+C-LS8032-LSGT,"Lipstick - Pearl Aubergine - P - Gold Trim",simple
+C-LS8033-LSGT,"Bunny Brown - C - Gold Trim",simple
+C-LS8037-LSGT,"Au De Natural - Gold Trim",simple
+C-LS8038-LSGT,"Charity - Gold Timr",simple
+C-LS8039-LSGT,"Lipstick - Believe - C - Gold Trim",simple
+C-LS8041-LSGT,"8041 Creamy Peach - Gold Trim",simple
+C-LS8042-LSGT,"Dreamy Peach - Gold Trim",simple
+C-LS8043-LSGT,"8043 Burnt Peach C - Gold Trim",simple
+C-LS8044-LSGT,"8044 WildDragon - P - Gold Trim",simple
+C-LS8047-LSGT,"Naked - C - Gold Trim",simple
+C-LS8048-LSGT,"Plush - C - Gold Trim",simple
+C-LS8049-LSGT,"8049 Sun Kiss - C/P Gold Trim 8049",simple
+C-LS8050-LSGT,"S-Kiss - Gold Trim",simple
+C-LS8051-LSGT,"Lipstick - Sunset - C/P - Gold Trim",simple
+C-LS8052-LSGT,"Red Rock - C - Gold Trim",simple
+C-LS8053-LSGT,"Hint of Orange - F - Gold Trim",simple
+C-LS8054-LSGT,"Sheer Orange - S - Gold Trim",simple
+C-LS8055-LSGT,"Deep Orange - C - Gold Trim",simple
+C-LS8056-LSGT,"Lipstick - Tangerine -C - Gold Trim",simple
+C-LS8057-LSGT,"Pink Cloud - C/P - Gold Trim",simple
+C-LS8059-LSGT,"Orange Bloom - C - Gold Trim",simple
+C-LS8060-LSGT,"Ravishing Rose - P - Gold Trim",simple
+C-LS8061-LSGT,"Aubergine - C - Gold Trim",simple
+C-LS8062-LSGT,"Coral Shelly - C/P - Gold Trim",simple
+C-LS8063-LSGT,"8063 Red Coral (C)",simple
+C-LS8065-LSGT," Fire Red - M - Gold Trim",simple
+C-LS8067-LSGT,"Burnt Red - C - Gold Trim",simple
+C-LS8068-LSGT,"Rouge Cream - S/P - Gold Trim",simple
+C-LS8069-LSGT,"8069 Lipstick - Radical Red - C - Gold Trim",simple
+C-LS8070-LSGT,"8070 Hot and Bothered - Gold Trim",simple
+C-LS8072-LSGT,"8072 Maralyn - M - Gold Trim",simple
+C-LS8073-LSGT,"Blush - F - Gold Trim",simple
+C-LS8074-LSGT,"All night long - C - Gold Trim",simple
+C-LS8075-LSGT,"Raspberry Red - C - Gold Trim",simple
+C-LS8077-LSGT,"8077 Bling Cherry  - C - Gold Trim",simple
+C-LS8078-LSGT,"Raseberry Haze - Gold Trim",simple
+C-LS8079-LSGT,"Berry - AC - Gold Trim",simple
+C-LS8081-LSGT,"Spring Rose - C - Gold Trim",simple
+C-LS8082-LSGT,"8082 Babie - C - Gold Trim",simple
+C-LS8083-LSGT,"Kitten Pink - C - Gold Trim",simple
+C-LS8084-LSGT,"8084 Pinky Red - M - Gold Trim",simple
+C-LS8086-LSGT,"Lipstick - Twiggy Pink - Gold Trim",simple
+C-LS8088-LSGT,"Rouge Rose - C - Gold Trim",simple
+C-LS8090-LSGT,"Deep Plum - C - Gold Trim",simple
+C-LS8092-LSGT,"Lipstick - Misty Pink - P - Gold Trim",simple
+C-LS8093-LSGT,"Dusty Rose - M - Gold Trim",simple
+C-LS8098-LSGT,"Future Pink - C/P - Gold Trim",simple
+C-LS8101-LSGT,"Plum Pink - C - Gold Trim",simple
+C-LS8102-LSGT,"Chardine - C - Gold Trim",simple
+C-LS8103-LSGT,"Booty Call - Gold Tirm",simple
+C-LS8104-LSGT,"8104 Unforgettable - Gold Trim",simple
+C-LS8105-LSGT,"Hotness Red P - Gold Trim",simple
+C-LS8106-LSGT,"8106 Bee Sting (C)",simple
+C-LS8107-LSGT,"Drive Him Crazy - P - Gold Trim",simple
+C-LS8108-LSGT,"One night Stand - P - Gold Trim",simple
+C-LS8109-LSGT,"Jealous - C - Gold Trim",simple
+C-LS8110-LSGT,"8110 Diva - C - Gold Trim 8110",simple
+C-LS8111-LSGT,"Vamp - C - Gold Trim",simple
+C-LS8112-LSGT,"Valuptious - C - Gold Trim",simple
+C-LS8113-LSGT,"Bubbly - C - Gold Trim",simple
+C-LS8114-LSGT,"8114 Shocking Pink - Gold Trim",simple
+C-LS8115-LSGT,"Lipstick - Grape C/P - Gold Trim",simple
+C-LS8117-LSGT,"Rebelious - M - Gold Trim",simple
+C-LS8118-LSGT,"Black Berry - C - Gold Trim",simple
+C-LS8119-LSGT,"Lipstick - Cotton Candy - P - Gold Trim",simple
+C-LS8120-LSGT,"8120 Fresh Lips - Gold Trim",simple
+C-LS8122-LSGT,"8122 Purple Lushies - Gold Trim",simple
+C-LS8123-LSGT,"8123 Grapcicle - C/S - Gold Trim",simple
+C-LS8124-LSGT,"Lipstick - Faith - C - Gold Trim",simple
+C-LS8126-LSGT,"Captivating - Gold Trim",simple
+C-LS8130-LSGT,"Summer Time - C/P - Gold Trim",simple
+C-LS8133-LSGT,"Shimmer beige - Gold Trim",simple
+C-LS8134-LSGT,"Nude Cream - Gold Trim",simple
+C-LS8140-LSGT,"Lipstick - Snow White - Gold Trim",simple
+C-LS8141-LSGT,"Deep Black - Gold Trim",simple
+C-LS8142-LSGT,"8142 Hello Pretty - Gold Trim",simple
+C-LS8143-LSGT,"8143 Fusion - Gold Trim",simple
+C-LS8144-LSGT,"8144 Fresh - Gold Trim",simple
+C-LS8145-LSGT,"8145 Coral Bliss - Gold Trim",simple
+C-LS8146-LSGT,"Fabulous - Gold Trim",simple
+C-LS8147-LSGT,"8147 Red Velvet - Gold Trim",simple
+C-LS8148-LSGT,"Candy Land - Gold Trim",simple
+C-LS8149-LSGT,"Taupe - Gold Trim",simple
+C-LS8150-LSGT,"Lipstick - Desert Rose - Gold Trim",simple
+C-LS8151-LSGT,"8151 Lipstick - Canyon GT",simple
+C-LS8152-LSGT,"Fashion Wear - Gold Trim",simple
+C-LS8153-LSGT,"Sensational - Gold Trim",simple
+C-LS8154-LSGT,"Dream Catcher - Gold Trim",simple
+C-LS8155-LSGT,"Heavenly - Gold Trim",simple
+C-LS8156-LSGT,"Purple Rain - Gold Trim",simple
+C-LS8157-LSGT,"Darling - Gold Trim",simple
+C-LS8158-LSGT,"8158 Lost - Gold Trim 8158",simple
+C-LS8159-LSGT,"Starlight - Gold Trim",simple
+C-LS8160-LSGT,"Bashful - Gold Trim",simple
+C-LS8161-LSGT,"Giggles - Gold Trim",simple
+C-LS8162-LSGT,"Fetish - Gold Trim",simple
+C-LS8163-LSGT,"Rain Maker - Gold Trim",simple
+C-LS8164-LSGT,"MamaMia - Gold Trim",simple
+C-LS8165-LSGT,"Topaz - M - Gold Trim",simple
+C-LS8166-LSGT,"Jersey Shore - Gold Trim",simple
+C-LS8167-LSGT,"Orange -M - Gold Trim",simple
+C-LS8168-LSGT,"Red - M - Gold Trim",simple
+C-LS8169-LSGT,"Red Devil - M - Gold Trim",simple
+C-LS8170-LSGT,"Purple Vibe - M - Gold Trim",simple
+C-LS8171-LSGT,"8171 Matte Lipstick Doll me up - Gold Trim",simple
+C-LS8172-LSGT,"Magic - Gold Trim",simple
+C-LS8173-LSGT,"Girl Next Door - Gold Trim",simple
+C-LS8174-LSGT,"Clever - Gold Trim",simple
+C-LS8175-LSGT,"Sweet Boy - Gold Trim",simple
+C-LS8176-LSGT,"Pretty Tizzy - Gold Trim",simple
+C-LS8177-LSGT,"Bombshell - Gold Trim",simple
+C-LS8178-LSGT,"Gatsby - Gold Trim",simple
+C-LS8179-LSGT,"Brag - Gold Trim",simple
+C-LS8180-LSGT,"Moochie - Gold Trim",simple
+C-LS8181-LSGT,"Naked - M - Gold Trim",simple
+C-LS8182-LSGT,"Nude - M - Gold Trim",simple
+C-LS8183-LSGT,"Bright Pink -M - Gold Trim",simple
+C-LS8184-LSGT,"Bright Orange - M - Gold Trim",simple
+C-LS8185-LSGT,"Grey - M - Gold Trim",simple
+C-LS8186-LSGT,"Burgandy - M - Gold Trim",simple
+C-LS8187-LSGT,"Purple Orchid - M - Gold Trim",simple
+C-LS8188-LSGT,"Teddy - Gold Trim",simple
+C-LS8189-LSGT,"Pebbles - Gold Trim",simple
+C-LS8190-LSGT,"Utopia - Gold Trim",simple
+C-LS8191-LSGT,"Flag Ship - Gold Trim",simple
+C-LS8192-LSGT,"8192 Frenzy - Gold Trim",simple
+C-LS8193-LSGT,"Fairy - Gold Trim",simple
+C-LS8194-LSGT,"Bloomer - Gold Trim",simple
+C-LS8195-LSGT,"Bam Bam - Gold Trim",simple
+C-LS8196-LSGT,"8196 Heart Breaker - Gold Trim",simple
+C-LS8197-LSGT,"Beauty Drug - Gold Colar",simple
+C-LS8198-LSGT,"8198 Russian Sensation - Gold Trim",simple
+C-LS8200-LSGT,"8200 Uptown Girl - Gold Trim 8200",simple
+C-LS8201-LSGT,"Girl night Out - Gold Trim",simple
+C-LS8202-LSGT,"Dream Girl - Gold Trim",simple
+C-LS8203-LSGT,"Warmth - Gold Trim",simple
+C-LS8204-LSGT,"Day Dream - Gold Trim",simple
+C-LS8205-LSGT,"Lipstick - Love Fear - Gold Trim",simple
+C-LS8206-LSGT,"Sweet kiss - Gold Trim",simple
+C-LS8207-LSGT,"Immoral - Gold Trim",simple
+C-LS8208-LSGT,"8208 Slush - Gold Trim",simple
+C-LS8209-LSGT,"Pout - Gold Trim",simple
+C-LS8210-LSGT,"Shock - Gold Trim",simple
+C-LS8211-LSGT,"Breeze - Gold Trim",simple
+C-LS8212-LSGT,"Love - Gold Trim",simple
+C-LS8213-LSGT,"Wonder - Gold Trim",simple
+C-LS8214-LSGT," 4430 Miracle - Gold Trim",simple
+C-LS8215-LSGT,"Sweet Heart - Gold Trim",simple
+C-LS8216-LSGT,"Lipstick - Girl Chat - Gold Trim",simple
+C-LS8217-LSGT,"Marvelous - Gold Trim",simple
+C-LS8218-LSGT,"Sloppy - Gold Trim",simple
+C-LS8219-LSGT,"Snog - Gold Trim",simple
+C-LS8221-LSGT,"8221 Soul - Gold Trim",simple
+C-LS8222-LSGT,"Ice Coral (Cream Matte) - Gold Trim",simple
+C-LS8223-LSGT,"Spell Bond (Cream Matte) - Gold Trim",simple
+C-LS8224-LSGT,"Cold Hearted (Cream Matte) - Gold Trim",simple
+C-LS8225-LSGT,"Naughty (Cream Matte) - Gold Trim",simple
+C-LS8226-LSGT,"Marine (Cream Matte) - Gold Trim",simple
+C-LS8227-LSGT,"Scandalous (Cream Matte) - Gold Trim",simple
+C-LS8229-LSGT,"Paradise Blue (Cream Matte) - Gold Trim",simple
+C-LS8230-LSGT,"Blue Moon (Cream Matte) - Gold Trim",simple
+C-LS8231-LSGT,"Ocean (Cream Matte) - Gold Trim",simple
+C-LS8232-LSGT,"Lipstick - Sugar Plum (Cream Matte) - Gold Trim",simple
+C-LS8233-LSGT,"AcidBerry (Cream Matte) - Gold Trim",simple
+C-LS8234-LSGT,"Lime Me Green (Cream Matte) - Gold Trim",simple
+C-LS8235-LSGT,"8235 Lipstick - Irish Pub (Cream Matte) - Gold Trim",simple
+C-LS8236-LSGT,"Gosh (Cream Matte) - Gold Trim",simple
+C-LS8237-LSGT,"Bubble Gum (Cream Matte) - Gold Trim",simple
+C-LS8238-LSGT,"Orange Sorbet (Cream Matte) - Gold Trim",simple
+lipstick_kisstint,"Lipstick Kisstint",configurable
+C-LSKCK,"Chocolate Kiss",simple
+C-LSKLB,"Kiss Tint - Love Berry",simple
+C-LSKTC,"Kiss Tint - Clementine",simple
+C-LSKTPP,"Kiss Tint - Pink Peony",simple
+C-LSKTTC,"Kiss Tint - Toffee Coffee",simple
+C-LSKTW,"Kiss Tint - Watermelon",simple
+lipstick_silverc,"Lipstick Silverc",configurable
+C-LS8000-lssilverc,"Lipstick - Vitamin E - M Silver Colar",simple
+C-LS8001-lssilverc,"Gold Kiss - S/F Silver Colar",simple
+C-LS8002-lssilverc,"Deep Gold - P - Silver Colar",simple
+C-LS8004-lssilverc,"Lipstick - Tinsel - P Silver Colar",simple
+C-LS8005-lssilverc,"Pale Bronze - P Silver Colar",simple
+C-LS8008-lssilverc,"Foxy Brown Silver Colar",simple
+C-LS8009-lssilverc,"8009 Lipstick Copper Rose - Silver Colar",simple
+C-LS8011-lssilverc,"89% Chocolate - M - Silver Colar",simple
+C-LS8012-lssilverc,"Mink Brown - C - Silver Colar",simple
+C-LS8013-lssilverc,Twig,simple
+C-LS8014-lssilverc,"Sienna - C - Silver Collar",simple
+C-LS8015-lssilverc,"8015 Sedona - C - Silver Colar",simple
+C-LS8016-lssilverc,"Copper - P - Silver Colar",simple
+C-LS8017-lssilverc,"Lipstick - Antique - P - Silver Colar",simple
+C-LS8018-lssilverc,"Lipstick - Rondnoir Brown - P Silver Colar",simple
+C-LS8021-lssilverc,"Gold Rose - C/P - Silver Colar",simple
+C-LS8022-lssilverc,"Bronze - C/P - Silver Colar",simple
+C-LS8023-lssilverc,"Hint of Rose - C/P - Silver Colar",simple
+C-LS8024-lssilverc,"Dream - S/P Silver Colar",simple
+C-LS8025-lssilverc,"Insirpation - P - Silver Colar",simple
+C-LS8028-lssilverc,"Lipstick - Creamy Amber C - Silver Colar",simple
+C-LS8029-lssilverc,"Mahogany Crème - Silver Colar",simple
+C-LS8031-lssilverc,"Mocha Latte - C - Silver Colar",simple
+C-LS8032-lssilverc,"Lipstick - Pearl Aubergine - P - Silver Colar",simple
+C-LS8033-lssilverc,"Bunny Brown - C - Silver Colar",simple
+C-LS8037-lssilverc,"Au De Natural Silver Colar",simple
+C-LS8038-lssilverc,"Charity - Silver Colar",simple
+C-LS8039-lssilverc,"Lipstick - Believe - C - Silver Colar",simple
+C-LS8041-lssilverc,"8041 Creamy Peach - Silver Colar",simple
+C-LS8042-lssilverc,"Dreamy Peach - Silver Colar",simple
+C-LS8043-lssilverc,"8043 Burnt Peach C - Silver Colar",simple
+C-LS8044-lssilverc,"8044 WildDragon - P - Silver Colar",simple
+C-LS8047-lssilverc,"Naked - C - Silver Colar",simple
+C-LS8048-lssilverc,"Plush - C - Silver Colar",simple
+C-LS8049-lssilverc,"8049 Sun Kiss - C/P Silver Colar 8049",simple
+C-LS8050-lssilverc,"S-Kiss - Silver Colar",simple
+C-LS8051-lssilverc,"Lipstick - Sunset - C/P - Silver Colar",simple
+C-LS8052-lssilverc,"Red Rock - C - Silver Colar",simple
+C-LS8053-lssilverc,"Hint of Orange (S)",simple
+C-LS8054-lssilverc,"Sheer Orange - S - Silver Colar",simple
+C-LS8055-lssilverc,"Deep Orange - C - Silver Colar",simple
+C-LS8056-lssilverc,"Lipstick - Tangerine -C - Silver Colar",simple
+C-LS8057-lssilverc,"Pink Cloud - C/P - Silver Colar",simple
+C-LS8058-lssilverc,"Mia Tia(C)",simple
+C-LS8059-lssilverc,"Orange Bloom - C - Silver Colar",simple
+C-LS8060-lssilverc,"Ravishing Rose - P - Silver Colar",simple
+C-LS8061-lssilverc,"Aubergine - C - Silver Colar",simple
+C-LS8062-lssilverc,"Coral Shelly - C/P - Silver Colar",simple
+C-LS8063-lssilverc,"Red Coral (C)",simple
+C-LS8065-lssilverc,"Fire Red - M - Silver Colar",simple
+C-LS8067-lssilverc,"Burnt Red - C - Silver Colar",simple
+C-LS8068-lssilverc,"Rouge Cream - S/P - Silver Colar",simple
+C-LS8069-lssilverc,"8069 Lipstick - Radical Red - C Silver Colar",simple
+C-LS8070-lssilverc,"8070 Hot and Bothered - Silver Colar",simple
+C-LS8072-lssilverc,"8072 Maralyn - M - Silver Colar",simple
+C-LS8073-lssilverc,"Blush - F - Silver Colar",simple
+C-LS8074-lssilverc,"All night long - C - Silver Colar",simple
+C-LS8075-lssilverc,"Raspberry Red - C - Silver Colar",simple
+C-LS8077-lssilverc,"8077 Bling Cherry  - C - Silver Colar",simple
+C-LS8078-lssilverc,"Raspberry Haze (C)",simple
+C-LS8079-lssilverc,"Berry (C)",simple
+C-LS8081-lssilverc,"Spring Rose (C)",simple
+C-LS8082-lssilverc,"8082 Babie - C - Silver Colar",simple
+C-LS8083-lssilverc,"Kitten Pink (C)",simple
+C-LS8084-lssilverc,"8084 Pinky Red - M - Silver Collar",simple
+C-LS8086-lssilverc,"Twiggy Pink (C)",simple
+C-LS8088-lssilverc,"Rouge Rose (C)",simple
+C-LS8090-lssilverc,"Deep Plum (C)",simple
+C-LS8092-lssilverc,"Misty Pink (P)",simple
+C-LS8093-lssilverc,"Dusty Rose (C)",simple
+C-LS8098-lssilverc,"Future Pink (C)",simple
+C-LS8101-lssilverc,"Plum Pink (C)",simple
+C-LS8102-lssilverc,"Chardine - C - Silver Colar",simple
+C-LS8103-lssilverc,"Booty Call - Silver Colar",simple
+C-LS8104-lssilverc,"8104 Unforgettable - Silver colar",simple
+C-LS8105-lssilverc,"Hotness Red P - Silver Colar",simple
+C-LS8106-lssilverc,"Bee Sting (C)",simple
+C-LS8107-lssilverc,"Drive Him Crazy - P - Silver Colar",simple
+C-LS8108-lssilverc,"One night Stand - P - Silver Colar",simple
+C-LS8109-lssilverc,"Jealous - C - Silver Colar",simple
+C-LS8110-lssilverc,"8110 Diva - C - Silver Colar 8110",simple
+C-LS8111-lssilverc,"Vamp - C - Silver Colar",simple
+C-LS8112-lssilverc,"Valuptious - C - Silver Colar",simple
+C-LS8113-lssilverc,"Bubbly - C - Silver Colar",simple
+C-LS8114-lssilverc,"8114 Shocking Pink - Silver Colar",simple
+C-LS8115-lssilverc,"Lipstick - Grape C/P - Silver Colar",simple
+C-LS8117-lssilverc,"Rebelious - M - Silver Colar",simple
+C-LS8118-lssilverc,"Black Berry - C - Silver Colar",simple
+C-LS8119-lssilverc,"Lipstick - Cotton Candy - P - Silver Colar",simple
+C-LS8120-lssilverc,"8120 Fresh Lips - Silver Colar",simple
+C-LS8122-lssilverc,"8122 Purple Lushies - Silver Colar",simple
+C-LS8123-lssilverc,"8123 Grapcicle - C/S - Silver Colar",simple
+C-LS8124-lssilverc,"Lipstick - Faith - C - Silver Colar",simple
+C-LS8126-lssilverc,"Captivating - Silver Colar",simple
+C-LS8130-lssilverc,"Summer Time - C/P - Silver Colar",simple
+C-LS8133-lssilverc,"Shimmer beige - Silver Colar",simple
+C-LS8134-lssilverc,"Nude Cream  - Silver Colar",simple
+C-LS8140-lssilverc,"Lipstick - Snow White - Silver Colar",simple
+C-LS8141-lssilverc,"Deep Black - Silver Colar",simple
+C-LS8142-lssilverc,"8142Hello Pretty - Silver Colar",simple
+C-LS8143-lssilverc,"8143 Fusion - Silver Colar",simple
+C-LS8144-lssilverc,"8144 Fresh - Silver Colar",simple
+C-LS8145-lssilverc,"Coral Bliss (C)",simple
+C-LS8146-lssilverc,"Fabulous - Silver Colar",simple
+C-LS8147-lssilverc,"8147 Red Velvet - Silver Colar",simple
+C-LS8148-lssilverc,"Candy Land - Silver Colar",simple
+C-LS8149-lssilverc,"Taupe - Silver Colar",simple
+C-LS8150-lssilverc,"Lipstick - Desert Rose - Silver Colar",simple
+C-LS8152-lssilverc,"Fashion Wear - Silver Colar",simple
+C-LS8153-lssilverc,"Sensational - Silver Colar",simple
+C-LS8154-lssilverc,"Dream Catcher - Silver Colar",simple
+C-LS8155-lssilverc,"Heavenly - Silver Colar",simple
+C-LS8156-lssilverc,"Purple Rain - Silver Colar",simple
+C-LS8157-lssilverc,"Darling - Silver Colar",simple
+C-LS8158-lssilverc,"8158 Lost - Silver Colar 8158",simple
+C-LS8159-lssilverc,"Starlight - Silver Colar",simple
+C-LS8160-lssilverc,"Bashful - Silver Colar",simple
+C-LS8161-lssilverc,"Giggles - Silver Colar",simple
+C-LS8162-lssilverc,"Fetish - Silver Colar",simple
+C-LS8163-lssilverc,"Rain Maker - Silver Colar",simple
+C-LS8164-lssilverc,"MamaMia - Silver Colar",simple
+C-LS8165-lssilverc,"Topaz - M - Silver Colar",simple
+C-LS8166-lssilverc,"Jersey Shore - Silver Colar",simple
+C-LS8167-lssilverc,"Orange (M)",simple
+C-LS8168-lssilverc,"Red - M - Silver Colar",simple
+C-LS8169-lssilverc,"Red Devil - M - Silver Colar",simple
+C-LS8170-lssilverc,"Purple Vibe - M - Silver Colar",simple
+C-LS8171-lssilverc,"8171 Matte Lipstick Doll me up - Silver Colar",simple
+C-LS8172-lssilverc,"Magic - Silver Colar",simple
+C-LS8173-lssilverc,"Girl Next Door - Silver Colar",simple
+C-LS8174-lssilverc,"Clever - Silver Colar",simple
+C-LS8175-lssilverc,"Sweet Boy - Silver Colar",simple
+C-LS8176-lssilverc,"Pretty Tizzy - Silver Colar",simple
+C-LS8177-lssilverc,"Bombshell - Silver Colar",simple
+C-LS8178-lssilverc,"Gatsby - Silver Colar",simple
+C-LS8179-lssilverc,"Brag - Silver Colar",simple
+C-LS8180-lssilverc,"Moochie - Silver Colar",simple
+C-LS8181-lssilverc,"Naked - M - Silver Colar",simple
+C-LS8182-lssilverc,"Nude - M - Silver Colar",simple
+C-LS8183-lssilverc,"Bright Pink -M - Silver Colar",simple
+C-LS8184-lssilverc,"Bright Orange - M - Silver Colar",simple
+C-LS8185-lssilverc,"Grey - M - Silver Colar",simple
+C-LS8186-lssilverc,"Burgandy - M - Silver Colar",simple
+C-LS8187-lssilverc,"Purple Orchid - M - Silver Colar",simple
+C-LS8188-lssilverc,"Teddy - Silver Colar",simple
+C-LS8189-lssilverc,"Pebbles - Silver Colar",simple
+C-LS8190-lssilverc,"Utopia - Silver Colar",simple
+C-LS8191-lssilverc,"Flag Ship - Silver Colar",simple
+C-LS8192-lssilverc,"8192 Frenzy - Silver Colar",simple
+C-LS8193-lssilverc,"Fairy - Silver Colar",simple
+C-LS8194-lssilverc,"Bloomer - Silver Colar",simple
+C-LS8195-lssilverc,"Bam Bam - Silver Colar",simple
+C-LS8196-lssilverc,"8196 Heart Breaker - Silver Colar",simple
+C-LS8197-lssilverc,"Beauty Drug - Silver Colar",simple
+C-LS8198-lssilverc,"8198 Russian Sensation Silver Colar",simple
+C-LS8200-lssilverc,"8200 Uptown Girl - Silver Colar 8200",simple
+C-LS8201-lssilverc,"Girl night Out - Silver Colar",simple
+C-LS8202-lssilverc,"Dream Girl - Silver Colar",simple
+C-LS8203-lssilverc,"Warmth - Silver Colar",simple
+C-LS8204-lssilverc,"Day Dream - Silver Colar",simple
+C-LS8205-lssilverc,"Lipstick - Love Fear - Silver Colar",simple
+C-LS8208-lssilverc,"8208 Slush - Silver Colar",simple
+C-LS8209-lssilverc,"Pout - Silver Colar",simple
+C-LS8210-lssilverc,"Shock - Silver Colar",simple
+C-LS8211-lssilverc,"Breeze - Silver Colar",simple
+C-LS8212-lssilverc,"Love - Silver Colar",simple
+C-LS8213-lssilverc,"Wonder - Silver Colar",simple
+C-LS8214-lssilverc,"4430 Miracle - Silver Colar",simple
+C-LS8215-lssilverc,"Sweet Heart - Silver Colar",simple
+C-LS8221-lssilverc,"8221 Soul - Silver Colar",simple
+C-LS8222-lssilverc,"Ice Coral (Cream Matte) - Silver Colar",simple
+C-LS8223-lssilverc,"Spell Bond (Cream Matte) - Silver Colar",simple
+C-LS8224-lssilverc,"Cold Hearted (Cream Matte) - Silver Colar",simple
+C-LS8225-lssilverc,"Naughty (Cream Matte) - Silver Colar",simple
+C-LS8226-lssilverc,"Marine (Cream Matte) - Silver Colar",simple
+C-LS8227-lssilverc,"Scandalous (Cream Matte) - Silver Colar",simple
+C-LS8228-lssilverc,Freddy,simple
+C-LS8229-lssilverc,"Paradise Blue (Cream Matte) - Silver Colar",simple
+C-LS8230-lssilverc,"Blue Moon (Cream Matte) - Silver Colar",simple
+C-LS8231-lssilverc,"Ocean (Cream Matte) - Silver Colar",simple
+C-LS8232-lssilverc,"Lipstick - Sugar Plum (Cream Matte) - Silver Colar",simple
+C-LS8233-lssilverc,"AcidBerry (Cream Matte) - Silver Colar",simple
+C-LS8234-lssilverc,"Lime Me Green (Cream Matte) - Silver Colar",simple
+C-LS8235-lssilverc,"8235 Lipstick - Irish Pub (Cream Matte) - Silver Colar",simple
+C-LS8236-lssilverc,"Gosh (Cream Matte) - Silver Colar",simple
+C-LS8237-lssilverc,"Bubble Gum (Cream Matte) - Silver Colar",simple
+C-LS8238-lssilverc,"Orange Sorbet (Cream Matte) - Silver Colar",simple
+Lipstick_Standard_Packaging,"Lipstick Standard Packaging",configurable
+C-LS8000-LSSTNDP,"Vitamin E (M)",simple
+C-LS8001-LSSTNDP,"Gold Kiss (F)",simple
+C-LS8002-LSSTNDP,"Deep Gold (P)",simple
+C-LS8004-LSSTNDP,"Tinsel (P)",simple
+C-LS8005-LSSTNDP,"Pale Bronze (F)",simple
+C-LS8008-LSSTNDP,"Foxy Brown (C)",simple
+C-LS8009-LSSTNDP,"Copper Rose P",simple
+C-LS8011-LSSTNDP,"89% Chocolate (M)",simple
+C-LS8012-LSSTNDP,"Mink Brown (C)",simple
+C-LS8013-LSSTNDP,Twig,simple
+C-LS8014-LSSTNDP,"Sienna (C)",simple
+C-LS8015-LSSTNDP,"Sedona C",simple
+C-LS8016-LSSTNDP,"Copper (P)",simple
+C-LS8017-LSSTNDP,"Antique (F)",simple
+C-LS8018-LSSTNDP,"Rondo Brown (P)",simple
+C-LS8021-LSSTNDP,"Gold Rose (P)",simple
+C-LS8022-LSSTNDP,"Bronze (P)",simple
+C-LS8023-LSSTNDP,"Hint of Rose (P)",simple
+C-LS8024-LSSTNDP,"Dream (C)",simple
+C-LS8025-LSSTNDP,"Inspiration (F)",simple
+C-LS8028-LSSTNDP,"Creamy Amber (C)",simple
+C-LS8029-LSSTNDP,"Mahogany (C)",simple
+C-LS8031-LSSTNDP,"Mocha Latter (C)",simple
+C-LS8032-LSSTNDP,"Pearl Aubergine (P)",simple
+C-LS8033-LSSTNDP,"Bunny Brown (C)",simple
+C-LS8037-LSSTNDP,"Au De Natural (C)",simple
+C-LS8038-LSSTNDP,"Charity (C)",simple
+C-LS8039-LSSTNDP,"Believe (C)",simple
+C-LS8041-LSSTNDP,"Creamy Peach Stanard",simple
+C-LS8042-LSSTNDP,"Dreamy Peach (C)",simple
+C-LS8043-LSSTNDP,"Burnt Peach C",simple
+C-LS8044-LSSTNDP,"WildDragon P",simple
+C-LS8047-LSSTNDP,"Naked (C)",simple
+C-LS8048-LSSTNDP,"Plush (C)",simple
+C-LS8049-LSSTNDP,"Sun Kiss C/P",simple
+C-LS8050-LSSTNDP,"SKiss (C)",simple
+C-LS8051-LSSTNDP,"Sunset (S)",simple
+C-LS8052-LSSTNDP,"Red Rock (C)",simple
+C-LS8053-LSSTNDP,"Hint of Orange (S)",simple
+C-LS8054-LSSTNDP,"Sheer Orange (S)",simple
+C-LS8055-LSSTNDP,"Deep Orange (C)",simple
+C-LS8056-LSSTNDP,"Tangerine AC",simple
+C-LS8057-LSSTNDP,"Pink Cloud (F)",simple
+C-LS8058-LSSTNDP,"Mia Tia(C)",simple
+C-LS8059-LSSTNDP,"Orange Bloom (C)",simple
+C-LS8060-LSSTNDP,"Ravishing Rose (F",simple
+C-LS8061-LSSTNDP,"Aubergine (C)",simple
+C-LS8062-LSSTNDP,"Coral Shelly (C)",simple
+C-LS8063-LSSTNDP,"Red Coral (C)",simple
+C-LS8065-LSSTNDP,"Fire Red (C)",simple
+C-LS8067-LSSTNDP,"Burnt Red (C)",simple
+C-LS8068-LSSTNDP,"Rouge Cream (F)",simple
+C-LS8069-LSSTNDP,"Radical Red C",simple
+C-LS8070-LSSTNDP,"Hot and Bothered",simple
+C-LS8072-LSSTNDP,"Maralyn M",simple
+C-LS8073-LSSTNDP,"Blush (C)",simple
+C-LS8074-LSSTNDP,"All night long (C)",simple
+C-LS8075-LSSTNDP,"Raspberry Red (C)",simple
+C-LS8077-LSSTNDP,"Bling Cherry C",simple
+C-LS8078-LSSTNDP,"Raspberry Haze (C)",simple
+C-LS8079-LSSTNDP,"Berry (C)",simple
+C-LS8081-LSSTNDP,"Spring Rose (C)",simple
+C-LS8082-LSSTNDP,"Babie C",simple
+C-LS8083-LSSTNDP,"Kitten Pink (C)",simple
+C-LS8086-LSSTNDP,"Twiggy Pink (C)",simple
+C-LS8088-LSSTNDP,"Rouge Rose (C)",simple
+C-LS8090-LSSTNDP,"Deep Plum (C)",simple
+C-LS8092-LSSTNDP,"Misty Pink (P)",simple
+C-LS8093-LSSTNDP,"Dusty Rose (C)",simple
+C-LS8098-LSSTNDP,"Future Pink (C)",simple
+C-LS8101-LSSTNDP,"Plum Pink (C)",simple
+C-LS8102-LSSTNDP,"Chorine (C)",simple
+C-LS8103-LSSTNDP,"Booty Call (C)",simple
+C-LS8104-LSSTNDP,Unforgettable,simple
+C-LS8105-LSSTNDP,"Hotness Red (C)",simple
+C-LS8106-LSSTNDP,"Bee Sting (C)",simple
+C-LS8107-LSSTNDP,"Drive Him Crazy (C)",simple
+C-LS8108-LSSTNDP,"One night Stand (C)",simple
+C-LS8109-LSSTNDP,"Jealous (C)",simple
+C-LS8110-LSSTNDP,"Diva C",simple
+C-LS8111-LSSTNDP,"Vamp (C)",simple
+C-LS8112-LSSTNDP,"Voluptuous (C)",simple
+C-LS8113-LSSTNDP,"Bubbly (F)",simple
+C-LS8114-LSSTNDP,"Shocking Pink",simple
+C-LS8115-LSSTNDP,"Grape (F)",simple
+C-LS8117-LSSTNDP,"Rebellious (C)",simple
+C-LS8118-LSSTNDP,"Black Berry (C)",simple
+C-LS8119-LSSTNDP,"Cotton Candy (P)",simple
+C-LS8120-LSSTNDP,"Fresh Lips",simple
+C-LS8122-LSSTNDP,"Purple Lushies",simple
+C-LS8123-LSSTNDP,"Grapcicle C/S Packaging",simple
+C-LS8124-LSSTNDP,"Faith (C)",simple
+C-LS8126-LSSTNDP,"Captivating (C)",simple
+C-LS8130-LSSTNDP,"Summer Time (P)",simple
+C-LS8133-LSSTNDP,"Shimmer beige (P)",simple
+C-LS8134-LSSTNDP,"Nude (C)",simple
+C-LS8140-LSSTNDP,"Snow White (M)",simple
+C-LS8141-LSSTNDP,"Deep Black (M)",simple
+C-LS8142-LSSTNDP,"Hello Pretty (P)",simple
+C-LS8143-LSSTNDP,"Fusion (F)",simple
+C-LS8144-LSSTNDP,"Fresh P",simple
+C-LS8145-LSSTNDP,"Coral Bliss (C)",simple
+C-LS8146-LSSTNDP,"Fabulous (C)",simple
+C-LS8147-LSSTNDP,"Red Velvet Pack",simple
+C-LS8148-LSSTNDP,"Candy Land (P)",simple
+C-LS8149-LSSTNDP,"Taupe (C)",simple
+C-LS8150-LSSTNDP,"Desert Rose (C)",simple
+C-LS8152-LSSTNDP,"Fashion Wea (C)",simple
+C-LS8153-LSSTNDP,"Sensational (C)",simple
+C-LS8154-LSSTNDP,"Dream Catcher (C)",simple
+C-LS8155-LSSTNDP,"Heavenly (C)",simple
+C-LS8156-LSSTNDP,"Purple Rain (C)",simple
+C-LS8157-LSSTNDP,"Darling (C)",simple
+C-LS8158-LSSTNDP,Lost,simple
+C-LS8159-LSSTNDP,"Starlight (C)",simple
+C-LS8160-LSSTNDP,"Bashful (C)",simple
+C-LS8161-LSSTNDP,"Giggles (F)",simple
+C-LS8162-LSSTNDP,"Fetish (F)",simple
+C-LS8163-LSSTNDP,"Rain Maker (C)",simple
+C-LS8164-LSSTNDP,"Manama (C)",simple
+C-LS8165-LSSTNDP,"Topaz (M)",simple
+C-LS8166-LSSTNDP,"Jersey Shore (C)",simple
+C-LS8167-LSSTNDP,"Orange (M)",simple
+C-LS8168-LSSTNDP,"Russian Red (M)",simple
+C-LS8169-LSSTNDP,"Red Devil (M)",simple
+C-LS8170-LSSTNDP,"Purple Vibe (M)",simple
+C-LS8171-LSSTNDP,"Doll me up (M)",simple
+C-LS8172-LSSTNDP,"Magic (C)",simple
+C-LS8173-LSSTNDP,"Girl Next Door (C)",simple
+C-LS8174-LSSTNDP,"Clever (C)",simple
+C-LS8175-LSSTNDP,"Sweet Boy (F)",simple
+C-LS8176-LSSTNDP,"Pretty Tizzy (C)",simple
+C-LS8177-LSSTNDP,"Bombshell (C)",simple
+C-LS8178-LSSTNDP,"Gatsby (C)",simple
+C-LS8179-LSSTNDP,"Brag (C)",simple
+C-LS8180-LSSTNDP,"Mooched (C)",simple
+C-LS8181-LSSTNDP,"Naked (M)",simple
+C-LS8182-LSSTNDP,"Nude (M)",simple
+C-LS8183-LSSTNDP,"Bright Pink (M)",simple
+C-LS8184-LSSTNDP,"Bright Orange (M)",simple
+C-LS8185-LSSTNDP,"grey (M)",simple
+C-LS8186-LSSTNDP,"Burgundy (M)",simple
+C-LS8187-LSSTNDP,"Purple Orchid (M)",simple
+C-LS8188-LSSTNDP,"Teddy (C)",simple
+C-LS8189-LSSTNDP,"Pebbles (P)",simple
+C-LS8190-LSSTNDP,"Utopia (C)",simple
+C-LS8191-LSSTNDP,"Flag Ship (C)",simple
+C-LS8192-LSSTNDP,"Frenzy Stand Pack",simple
+C-LS8193-LSSTNDP,"Fairy (C)",simple
+C-LS8194-LSSTNDP,"Bloome (C)",simple
+C-LS8195-LSSTNDP,"Bam (C)",simple
+C-LS8196-LSSTNDP,"Heart Breaker Packaging",simple
+C-LS8197-LSSTNDP,"Beauty Drug (C)",simple
+C-LS8198-LSSTNDP,"Russian Sensation",simple
+C-LS8200-LSSTNDP,"Uptown Girl Packaging",simple
+C-LS8201-LSSTNDP,"Girls Night Out (C)",simple
+C-LS8202-LSSTNDP,"Dream Girl (C)",simple
+C-LS8203-LSSTNDP,"Warmth (C)",simple
+C-LS8204-LSSTNDP,"Day Dream (C)",simple
+C-LS8205-LSSTNDP,"Love Fear (C)",simple
+C-LS8208-LSSTNDP,"Slush Stnd Pack",simple
+C-LS8209-LSSTNDP,"Pout Stnd Pack (C)",simple
+C-LS8210-LSSTNDP,Shock,simple
+C-LS8211-LSSTNDP,"Breeze (C)",simple
+C-LS8212-LSSTNDP,"Love M (C)",simple
+C-LS8213-LSSTNDP,"Wonder (C)",simple
+C-LS8214-LSSTNDP,"Miracle (C)",simple
+C-LS8215-LSSTNDP,"Sweat Heart (C)",simple
+C-LS8221-LSSTNDP,"Soul Packaging",simple
+C-LS8222-LSSTNDP,"Ice Cora (M)",simple
+C-LS8223-LSSTNDP,"Spell Bond (M)",simple
+C-LS8224-LSSTNDP,"Cold Hearted (Cream Matte)",simple
+C-LS8225-LSSTNDP,"Naughty (M)",simple
+C-LS8226-LSSTNDP,"Marine (M)",simple
+C-LS8227-LSSTNDP,"Scandalous (M)",simple
+C-LS8228-LSSTNDP,Freddy,simple
+C-LS8229-LSSTNDP,"Paradise Blue (M)",simple
+C-LS8230-LSSTNDP,"Blue Moon (M)",simple
+C-LS8231-LSSTNDP,"Ocean (M)",simple
+C-LS8233-LSSTNDP,"AcidBerry (M)",simple
+C-LS8234-LSSTNDP,"Lime Me Green (M)",simple
+C-LS8235-LSSTNDP,"Irish Pub (Cream Matte) Packaging",simple
+C-LS8236-LSSTNDP,"Gosh (M)",simple
+C-LS8237-LSSTNDP,"Bubble Gum (M)",simple
+C-LS8238-LSSTNDP,"Orange Sorbet (Cream Matte)",simple
+"Liquid_Lipstick_standard Packaging","Liquid Lipstick",configurable
+C-LL4500-LIQDSTNDP,"4500 - All Natural",simple
+C-LL4501-LIQDSTNDP,"4501 - Dream",simple
+C-LL4502-LIQDSTNDP,"4502 - Angel",simple
+C-LL4503-LIQDSTNDP,"4503 - Pink Pop",simple
+C-LL4504-LIQDSTNDP,"4504 - Love Bite",simple
+C-LL4505-LIQDSTNDP,Charmed,simple
+C-LL4507-LIQDSTNDP,"Black Berry",simple
+C-LL4508-LIQDSTNDP,"Dream Girl",simple
+C-LL4509-LIQDSTNDP,"4509 Fall In Love",simple
+C-LL4510-LIQDSTNDP,"Hot Lips",simple
+C-LL4511-LIQDSTNDP,"Kiss Me",simple
+C-LL4512-LIQDSTNDP,"Shocking Pink",simple
+C-LL4513-LIQDSTNDP,"Gorgeous (Satin)",simple
+C-LL4514-LIQDSTNDP,"Bam Bam (Satin)",simple
+C-LL4515-LIQDSTNDP,"Snob (Satin)",simple
+C-LL4516-LIQDSTNDP,"4516 - Liquid Lipstick - Amorous (Satin) - Stnd P",simple
+C-LL4517-LIQDSTNDP,"Pebbles (Satin)",simple
+C-LL4518-LIQDSTNDP,"Soul Mate",simple
+C-LL4519-LIQDSTNDP,"Blue Moon",simple
+C-LL4520-LIQDSTNDP,"Paradise Blue",simple
+C-LL4521-LIQDSTNDP,"4521 - Scandalous",simple
+C-LL4522-LIQDSTNDP,"4522 - Spell Bond",simple
+C-LL4523-LIQDSTNDP,"4523 - Black",simple
+C-LL4524-LIQDSTNDP,"4524 - Grey",simple
+C-LL4525-LIQDSTNDP,"4525 - Tangerine Queen",simple
+C-LL4526-LIQDSTNDP,"4526 - Speechless",simple
+C-LL4527-LIQDSTNDP,"4527 - Fearless",simple
+C-LL4528-LIQDSTNDP,"4528 - Stylish Girl",simple
+C-LL4529-LIQDSTNDP,"4529 - Fashionable",simple
+C-LL4530-LIQDSTNDP,"4530 - Hunter",simple
+C-LL4531-LIQDSTNDP,"4531 - Sugar Plum",simple
+C-LL4532-LIQDSTNDP,"4532 - City Girl",simple
+C-LL4533-LIQDSTNDP,"4533 - Funtime",simple
+C-LL4534-LIQDSTNDP,"4534 - Shallow Orchid",simple
+C-LL4535-LIQDSTNDP,"4535 - Stunner",simple
+C-LL4536-LIQDSTNDP,"4536 - Aphrodite",simple
+C-LL4537-LIQDSTNDP,"4537 - Twitch",simple
+C-LL4538-LIQDSTNDP,"4538 - Hypnotised",simple
+C-LL4539-LIQDSTNDP,"4539 - Loving Red",simple
+C-LL4540-LIQDSTNDP,"4540 - Bonfire",simple
+C-LL4541-LIQDSTNDP,"4541 - Delighted",simple
+C-LL4542-LIQDSTNDP,"4542 - Shy Girl",simple
+C-LL4543-LIQDSTNDP,"4543 - Adore",simple
+C-LL4544-LIQDSTNDP,"Liquid Lipstick Lavish",simple
+C-LL4545-LIQDSTNDP,Posh,simple
+C-LL4546-LIQDSTNDP,"4546 - Nebula",simple
+C-LL4547-LIQDSTNDP,"4547 - Sin City",simple
+C-LL4548-LIQDSTNDP,"4548 - Baby Spice",simple
+C-LL4549-LIQDSTNDP,"4549 - Supernova",simple
+C-LL4550-LIQDSTNDP,"4550 - Fawn",simple
+C-LL4551-LIQDSTNDP,"4551 - Seoul",simple
+C-LL4552-LIQDSTNDP,Sunlit,simple
+C-LL4553-LIQDSTNDP,"Wicked Coral",simple
+C-LL4554-LIQDSTNDP,"4554 - Be In Love",simple
+C-LL4555-LIQDSTNDP,"4555 - Mauve Ideal",simple
+C-LL4556-LIQDSTNDP,Defined,simple
+C-LL4557-LIQDSTNDP,Hope,simple
+C-LL4558-LIQDSTNDP,"4558 - Spicy Red",simple
+C-LL4559-LIQDSTNDP,Jamm,simple
+C-LL4560-LIQDSTNDP,"4560 - Kingdom",simple
+C-LL4561-LIQDSTNDP,Marvelous,simple
+C-LL4562-LIQDSTNDP,Fortune,simple
+C-LL4563-LIQDSTNDP,Azure,simple
+C-LL4564-LIQDSTNDP,Aqua,simple
+C-LL4565-LIQDSTNDP,"Royal Blue",simple
+C-LL4566-LIQDSTNDP,Indigo,simple
+C-LL4567-LIQDSTNDP,Heartbeat,simple
+C-LL4568-LIQDSTNDP,Pedal,simple
+C-LL4569-LIQDSTNDP,Forest,simple
+C-LL4570-LIQDSTNDP,"Pucker Up",simple
+C-LL4571-LIQDSTNDP,Catwalk,simple
+C-LL4572-LIQDSTNDP,Wow,simple
+C-LL4573-LIQDSTNDP,Teal,simple
+C-LL4574-LIQDSTNDP,BaBoom,simple
+C-LL4575-LIQDSTNDP,Cerise,simple
+C-LL4576-LIQDSTNDP,Surprising,simple
+C-LL4577-LIQDSTNDP,"Just About",simple
+C-LL4578-LIQDSTNDP,Dangerous,simple
+C-LL4579-LIQDSTNDP,Coveted,simple
+C-LL4580-LIQDSTNDP,Famous,simple
+C-LL4581-LIQDSTNDP,Icon,simple
+C-LL4582-LIQDSTNDP,Trophy,simple
+C-LL4583-LIQDSTNDP,Grunge,simple
+C-LL4584-LIQDSTNDP,Pleasing,simple
+C-LL4585-LIQDSTNDP,Flora,simple
+C-LL4586-LIQDSTNDP,Darling,simple
+C-LL4587-LIQDSTNDP,Sangria,simple
+C-LL4588-LIQDSTNDP,"4588 Rum N' Coke",simple
+liquidcon_color,"Full Coverage Liquid Concealer",configurable
+C-LC900,"Full Coverage Concealer - Extra Light Porcelain",simple
+C-LC901,"Full Coverage Liquid Concealer - Light Porcelain",simple
+C-LC902,"Full Coverage Liquid Concealer - Porcelain",simple
+C-LC903,"Full Coverage Liquid Concealer - Medium Beigh",simple
+C-LC904,"Full Coverage Liquid Concealer - Dark Tan",simple
+C-LC905,"Full Coverage Liquid Concealer - Mocha",simple
+C-LC908,"Full Coverage Liquid Concealer - Coffee Bean",simple
+C-LC909,"Full Coverage Liquid Concealer - Amber",simple
+C-LC911,"Full Coverage Liquid Concealer - Medium Light Porcelain",simple
+C-LC940,"Full Coverage Liquid Concealer - Corrector - Yellow",simple
+C-LC941,"Full Coverage Liquid Concealer - Corrector - Lilac",simple
+C-LC942,"Full Coverage Liquid Concealer - Corrector - Mint",simple
+C-LC943,"Full Coverage Liquid Concealer - Corrector - Perfect Orange",simple
+C-LC944,"Full Coverage Liquid Concealer - Corrector - Burnt Orange",simple
+C-LC950,"Full Coverage Liquid Concealer - Light Ivory",simple
+C-LC951,"Full Coverage Liquid Concealer - Ivory",simple
+C-LC952,"Full Coverage Liquid Concealer - Medium Ivory",simple
+C-LC953,"Full Coverage Liquid Concealer - Medium Tan",simple
+C-LC954,"Full Coverage Liquid Concealer - Tan",simple
+C-LC955,"Full Coverage Liquid Concealer - Almond",simple
+LL_Shny_Blk,"Liquid Lipstick Shiny Black Packaging",configurable
+C-LL4500-SHNYBLKC,"4500 - Liquid Lipstick - All Natural",simple
+C-LL4501-SHNYBLKC,"4501 - Liquid Lipstick - - Dream",simple
+C-LL4502-SHNYBLKC,"4502 - Liquid Lipstick -  Angel",simple
+C-LL4503-SHNYBLKC,"4503 - Liquid Lipstick - Pink Pop",simple
+C-LL4504-SHNYBLKC,"4504 - Liquid Lipstick - - Love Bite",simple
+C-LL4505-SHNYBLKC,"4505 - Liquid Lipstick -  Charmed",simple
+C-LL4507-SHNYBLKC,"4507 Liquid Lipstick - Black Berry",simple
+C-LL4508-SHNYBLKC,"4508 Liquid Lipstick - Dream Girl",simple
+C-LL4509-SHNYBLKC,"4509 Liquid Lipstick - Fall In Love",simple
+C-LL4510-SHNYBLKC,"4510 Liquid Lipstick - Hot Lips",simple
+C-LL4511-SHNYBLKC,"4511 - Liquid Lipstick - Kiss Me",simple
+C-LL4512-SHNYBLKC,"4512 - Liquid Lipstick - Shocking Pink",simple
+C-LL4513-SHNYBLKC,"4513 - Liquid Lipstick - Gorgeous (Satin)",simple
+C-LL4514-SHNYBLKC,"4514 - Liquid Lipstick - Bam Bam (Satin)",simple
+C-LL4515-SHNYBLKC,"4515 - Liquid Lipstick - Snob (Satin)",simple
+C-LL4516-SHNYBLKC,"4516 - Liquid Lipstick - Amorous (Satin)",simple
+C-LL4517-SHNYBLKC,"4517 - Liquid Lipstick - Pebbles (Satin)",simple
+C-LL4518-SHNYBLKC,"4518 - Liquid Lipstick - Soul Mate",simple
+C-LL4519-SHNYBLKC,"4519 - Liquid Lipstick - Blue Moon",simple
+C-LL4520-SHNYBLKC,"4520  - Liquid Lipstick - Paradise Blue",simple
+C-LL4521-SHNYBLKC,"4521 - Liquid Lipstick - Scandalous",simple
+C-LL4522-SHNYBLKC,"4522 - Liquid Lipstick - Spell Bond",simple
+C-LL4523-SHNYBLKC,"4523 - Liquid Lipstick - Black",simple
+C-LL4524-SHNYBLKC,"4524 - Liquid Lipstick - Grey",simple
+C-LL4525-SHNYBLKC,"4525 - Liquid Lipstick - Tangerine Queen",simple
+C-LL4526-SHNYBLKC,"4526 - Liquid Lipstick - Speechless",simple
+C-LL4527-SHNYBLKC,"4527 - Liquid Lipstick - Fearless",simple
+C-LL4528-SHNYBLKC,"4528 - Liquid Lipstick - Stylish Girl",simple
+C-LL4529-SHNYBLKC,"4529 - Liquid Lipstick - Fashionable",simple
+C-LL4530-SHNYBLKC,"4530 - Liquid Lipstick - Hunter",simple
+C-LL4531-SHNYBLKC,"4531 - Liquid Lipstick - Sugar Plum",simple
+C-LL4532-SHNYBLKC,"4532 - Liquid Lipstick - City Girl",simple
+C-LL4533-SHNYBLKC,"4533 - Liquid Lipstick - Funtime",simple
+C-LL4534-SHNYBLKC,"4534 - Liquid Lipstick - Shallow Orchid",simple
+C-LL4535-SHNYBLKC,"4535 - Liquid Lipstick - Stunner",simple
+C-LL4536-SHNYBLKC,"4536 - Liquid Lipstick - Aphrodite",simple
+C-LL4537-SHNYBLKC,"4537 - Liquid Lipstick - Twitch",simple
+C-LL4539-SHNYBLKC,"4539 - Liquid Lipstick - Loving Red",simple
+C-LL4540-SHNYBLKC,"4540 - Liquid Lipstick - Bonfire",simple
+C-LL4541-SHNYBLKC,"4541 - Liquid Lipstick - Delighted",simple
+C-LL4542-SHNYBLKC,"4542 - Liquid Lipstick - Shy Girl",simple
+C-LL4543-SHNYBLKC,"4543 - Liquid Lipstick - - Adore",simple
+C-LL4544-SHNYBLKC,"4544  Liquid Lipstick Lavish",simple
+C-LL4545-SHNYBLKC,"4545 - Liquid Lipstick - Posh",simple
+C-LL4546-SHNYBLKC,"4546 - Liquid Lipstick - Nebula",simple
+C-LL4547-SHNYBLKC,"4547 - Liquid Lipstick - Sin City",simple
+C-LL4548-SHNYBLKC,"4548 - Liquid Lipstick - Baby Spice",simple
+C-LL4549-SHNYBLKC,"4549 - Liquid Lipstick - Supernova",simple
+C-LL4550-SHNYBLKC,"4550 - Liquid Lipstick - Fawn",simple
+LL_Silver,"Liquid Lipstick Silver Cap Packaging",configurable
+C-LL4500-SILVERCAP,"4500 - Liquid Lipstick - All Natural",simple
+C-LL4501-SILVERCAP,"4501 - Liquid Lipstick - Dream",simple
+C-LL4502-SILVERCAP,"4502 - Liquid Lipstick - Angel",simple
+C-LL4503-SILVERCAP,"4503 - Liquid Lipstick - Pink Pop",simple
+C-LL4504-SILVERCAP,"4504 - Liquid Lipstick - -Love Bite",simple
+C-LL4505-SILVERCAP,"4505 - Liquid Lipstick -  Charmed",simple
+C-LL4507-SILVERCAP,"4507 Liquid Lipstick - Black Berry",simple
+C-LL4508-SILVERCAP,"4508 Liquid Lipstick - Dream Girl",simple
+C-LL4509-SILVERCAP,"4509 Liquid Lipstick - Fall In Love",simple
+C-LL4510-SILVERCAP,"4510 Liquid Lipstick - Hot Lips",simple
+C-LL4511-SILVERCAP,"4511 - Liquid Lipstick - Kiss Me",simple
+C-LL4512-SILVERCAP,"4512 - Liquid Lipstick - Shocking Pink",simple
+C-LL4513-SILVERCAP,"4513 - Liquid Lipstick - Gorgeous (Satin)",simple
+C-LL4514-SILVERCAP,"4514 - Liquid Lipstick - Bam Bam (Satin)",simple
+C-LL4515-SILVERCAP,"4515 - Liquid Lipstick - Snob (Satin)",simple
+C-LL4516-SILVERCAP,"4516 - Liquid Lipstick - Amorous (Satin)",simple
+C-LL4517-SILVERCAP,"4517 - Liquid Lipstick - Pebbles (Satin)",simple
+C-LL4518-SILVERCAP,"4518 - Liquid Lipstick - Soul Mate",simple
+C-LL4519-SILVERCAP,"4519 - Liquid Lipstick - Blue Moon",simple
+C-LL4520-SILVERCAP,"4520 - Liquid Lipstick - Paradise Blue",simple
+C-LL4521-SILVERCAP,"4521 - Liquid Lipstick - Scandalous",simple
+C-LL4522-SILVERCAP,"4522 - Liquid Lipstick - Spell Bond",simple
+C-LL4523-SILVERCAP,"4523 - Liquid Lipstick - Black",simple
+C-LL4524-SILVERCAP,"4524 - Liquid Lipstick - Grey",simple
+C-LL4525-SILVERCAP,"4525 - Liquid Lipstick - Tangerine Queen",simple
+C-LL4526-SILVERCAP,"4526 - Liquid Lipstick - Speechless",simple
+C-LL4527-SILVERCAP,"4527 - Liquid Lipstick - Fearless",simple
+C-LL4528-SILVERCAP,"4528 - Liquid Lipstick - Stylish Girl",simple
+C-LL4529-SILVERCAP,"4529 - Liquid Lipstick - Fashionable",simple
+C-LL4530-SILVERCAP,"4530 - Liquid Lipstick - Hunter",simple
+C-LL4531-SILVERCAP,"4531 - Liquid Lipstick - Sugar Plum",simple
+C-LL4532-SILVERCAP,"4532 - Liquid Lipstick - City Girl",simple
+C-LL4533-SILVERCAP,"4533 - Liquid Lipstick - Funtime",simple
+C-LL4534-SILVERCAP,"4534 - Liquid Lipstick - Shallow Orchid",simple
+C-LL4535-SILVERCAP,"4535 - Liquid Lipstick - Stunner",simple
+C-LL4536-SILVERCAP,"4536 - Liquid Lipstick - Aphrodite",simple
+C-LL4537-SILVERCAP,"4537 - Liquid Lipstick - Twitch",simple
+C-LL4538-SILVERCAP,"4538 - Liquid Lipstick - Hypnotised",simple
+C-LL4539-SILVERCAP,"4539 - Liquid Lipstick - Loving Red",simple
+C-LL4540-SILVERCAP,"4540 - Liquid Lipstick - Bonfire",simple
+C-LL4541-SILVERCAP,"4541 - Liquid Lipstick - Delighted",simple
+C-LL4542-SILVERCAP,"4542 - Liquid Lipstick - Shy Girl",simple
+C-LL4543-SILVERCAP,"4543 - Liquid Lipstick - - Adore",simple
+C-LL4544-SILVERCAP,"4544  Liquid Lipstick Lavish",simple
+C-LL4545-SILVERCAP,"4545 - Liquid Lipstick - Posh",simple
+C-LL4546-SILVERCAP,"4546 - Liquid Lipstick - Nebula",simple
+C-LL4547-SILVERCAP,"4547 - Liquid Lipstick - Sin City",simple
+C-LL4548-SILVERCAP,"4548 - Liquid Lipstick - Baby Spice",simple
+C-LL4549-SILVERCAP,"4549 - Liquid Lipstick - Supernova",simple
+C-LL4550-SILVERCAP,"4550 - Liquid Lipstick - Fawn",simple
+LOGO,"Logo Plate Design",configurable
+PLATE-1PP1TS,"Pad Printing One Time Setup Fee - 4 Plates/Logo",simple
+PLATE-1PP1TS2,"Multi-color logo",simple
+loose_powder,"Loose Powder",configurable
+C-HDLP600-BC,"10g Loose Powder LP600 Extra Light Porcelain",simple
+C-HDLP601-BC,"10g Loose Powder LP601 Light Porcelain",simple
+C-HDLP602-BC,"10g Loose Powder LP602 Porcelain",simple
+C-HDLP603-BC,"10g Loose Powder LP603 Medium Beige",simple
+C-HDLP604-BC,"10g Loose Powder LP604 Dark Tan",simple
+C-HDLP605-BC,"10g Loose Powder LP605/655 Mocha",simple
+C-HDLP606-BC,"10g Loose Powder LP606 Ebony",simple
+C-HDLP607-BC,"10g Loose Powder LP607 Caramel",simple
+C-HDLP608-BC,"10g Loose Powder LP608 Coffee Bean",simple
+C-HDLP609-BC,"10g Loose Powder LP609 Amber",simple
+C-HDLP610-BC,"10g Loose Powder LP610 Congac",simple
+C-HDLP611-BC,"10g Loose Powder LP611 Medium Light Porcelain",simple
+C-HDLP612-BC,"10g Loose Powder LP612 Medium Porcelian",simple
+C-HDLP650-BC,"10g Loose Powder LP650 Light Ivory",simple
+C-HDLP651-BC,"10g Loose Powder LP651 Ivory",simple
+C-HDLP652-BC,"10g Loose Powder LP652 Medium Ivory",simple
+C-HDLP653-BC,"10g Loose Powder LP653 Medium Tan",simple
+C-HDLP654-BC,"10g Loose Powder LP654 Tan",simple
+C-HDLP655-BC,"10g Loose Powder LP655 Almond",simple
+C-HDLP656-BC,"10g Loose Powder LP656 Golden Honey",simple
+Mascara,Mascara,configurable
+C-MS110,"MS110 Mascara White  Wand",simple
+C-MS111,"MS111 Mascara Brown Wand",simple
+C-MS112,"MS112 Mascara Navy Wand",simple
+C-MS113,"MS113 Mascara Clear Wand",simple
+C-MS114,"MS114 Mascara Black Wand",simple
+Mascara_Squeeze,"Mascara Squeeze Tube",configurable
+C-MS105,"MS105 Mascara White  Squeeze",simple
+C-MS106,"MS106 Mascara Brown Squeeze",simple
+C-MS107,"MS107 Mascara Navy  Squeeze",simple
+C-MS108,"MS108 Mascara Clear Squeeze",simple
+C-MS109,"MS109 Mascara Black Squeeze",simple
+Mcreme_BL_Refill,"Mineral Crème Blush Refill",configurable
+C-M300R,"Refill - M300 M. Creme Blush Cinnabar",simple
+C-M301R,"Refill - M301 M. Creme Blush Ginger Beige",simple
+C-M302R,"Refill - M302 M. Creme Blush Cherise",simple
+C-M303R,"Refill - M303 M. Creme Blush Vermilion",simple
+C-M304R,"Refill - M304 M. Creme Blush Firebrick",simple
+C-M305R,"Refill - M305 M. Creme Blush Blossom",simple
+C-M306R,"Refill - M306 M. Creme Blush French Rosette",simple
+C-M307R,"Refill - M307 M. Magical Rose Creme Blush",simple
+C-M308R,"Refill - M308 M. Creme Blush Graceful",simple
+C-M309R,"Refill - M309 M. Creme Blush Modish",simple
+C-M310R,"Refill - M310 M. Creme Blush Love",simple
+C-M311R,"Refill - M311 M. Creme Blush",simple
+C-M312R,"Refill - M312 M. Creme Blush",simple
+C-M313R,"Refill - M313 M. Creme Blush",simple
+Mcreme_ES_Compact,"Mineral Crème Eyeshadow",configurable
+C-M201C,"Compact - M201 M Creme Shadow Misty Rose",simple
+C-M202C,"Compact - M202 M Creme Shadow Orchid",simple
+C-M203C,"Compact - M203 M Creme Shadow Seashell",simple
+C-M206C,"Compact - M206 M Creme Shadow Burnt Umber",simple
+C-M213C,"Compact - M213 M Creme Shadow Sienna",simple
+Mcreme_ES_Refill,"Mineral Crème Eyeshadow Refill",configurable
+C-M201R,"Refill - M201 M Creme Shadow Misty Rose",simple
+C-M202R,"Refill - M202 M Creme Shadow Orchid",simple
+C-M203R,"Refill - M203 M Creme Shadow Seashell",simple
+C-M204R,"Refill - M204 M Creme Shadow Taupe",simple
+C-M205R,"Refill - M205 M Creme Shadow Mauve",simple
+C-M206R,"Refill - M206 M Creme Shadow Burnt Umber",simple
+C-M207R,"Refill - M207 M Creme Shadow Magenta",simple
+C-M208R,"Refill - M208 M Creme Shadow Light Denim",simple
+C-M209R,"Refill - M209 M Creme Shadow Grey Slate",simple
+C-M210R,"Refill - M210 M Creme Shadow Lilac",simple
+C-M211R,"Refill - M211 M Creme Shadow Copper",simple
+C-M212R,"Refill - M212 M Creme Shadow Apricot",simple
+C-M213R,"Refill - M213 M Creme Shadow Sienna",simple
+C-M214R,"Refill - M214 M Creme Shadow Salmon",simple
+C-M215R,"Refill - M215 M Creme Shadow Terra Cotta",simple
+mineraldust_color,"Mineral Dust",configurable
+"C-MD1-GLSTND P","MD1 Mineral Dust Pearl White",simple
+"C-MD10-GLSTND P","MD10 Mineral Dust White Red",simple
+"C-MD11-GLSTND P","MD11 Mineral Dust Hot Pink",simple
+"C-MD13-GLSTND P","MD13 Mineral Dust Fine Gold",simple
+"C-MD14-GLSTND P","MD14 Mineral Dust Antique Bronze",simple
+"C-MD15-GLSTND P","MD15 Mineral Dust Antique Green",simple
+"C-MD16-GLSTND P","MD16 Mineral Dust Saphire",simple
+"C-MD17-GLSTND P","MD17 Mineral Dust Duo Chrome",simple
+"C-MD18-GLSTND P","MD18 Mineral Dust Jade",simple
+"C-MD19-GLSTND P","MD19 Mineral Dust Emerald",simple
+"C-MD2-GLSTND P","MD2 Mineral Dust Sun Stone",simple
+"C-MD21-GLSTND P","MD21 Mineral Dust Orange",simple
+"C-MD22-GLSTND P","MD22 Mineral Dust Silver Sea",simple
+"C-MD23-GLSTND P","MD23 Mineral Dust Deep Black",simple
+"C-MD24-GLSTND P","MD24 Mineral Dust Lilac",simple
+"C-MD25-GLSTND P","MD25 Mineral Dust Baby Blue",simple
+"C-MD26-GLSTND P","MD26 Mineral Dust Irridescent Red",simple
+"C-MD27-GLSTND P","MD27 Mineral Dust Pearly Pink",simple
+"C-MD28-GLSTND P","MD28 Mineral Dust Light Gold",simple
+"C-MD29-GLSTND P","MD29 Mineral Dust Misty Green",simple
+"C-MD3-GLSTND P","MD3 Mineral Dust Copper",simple
+"C-MD30-GLSTND P","MD30 Mineral Dust Slate",simple
+"C-MD31-GLSTND P","MD31 Mineral Dust Star Night With Glitter",simple
+"C-MD32-GLSTND P","MD32 Mineral Dust Lindin Green",simple
+"C-MD4-GLSTND P","MD4 Mineral Dust Violet",simple
+"C-MD5-GLSTND P","MD5 Mineral Dust Golden Bronze",simple
+"C-MD6-GLSTND P","MD6 Mineral Dust Garnet",simple
+"C-MD7-GLSTND P","MD7 Mineral Dust Blue",simple
+"C-MD8-GLSTND P","MD8 Mineral Dust Flambe",simple
+"C-MD9-GLSTND P","MD9 Mineral Dust Amber",simple
+mist_flavor,"Mist Flavor",configurable
+C-REM50,"Reviving Eucalyptus Mist 50ml",simple
+C-RNM50,"Rose Nourishing Mist",simple
+C-SLM50,"Soothing Lavender Mist",simple
+primer,Primer,configurable
+C-CP-30,"HD Perfect Canvas Primer 30 ml",simple
+C-H20/30,"30ml H2O Primer - Normal to Dry",simple
+Professional_Picture_Photography,"Professional Picture Photography",configurable
+GD-PPC,"Professional Picture",simple
+GD-PPLS,"Professional picture Photography",simple
+GD-PPLSG,"Professional picture Photography Group",simple
+GD-PPS,"Professional Picture Swatch - 1",simple
+refil_bronzer_color,"Refill Bronzer",configurable
+C-B191R,"Refil - B191 PPowder Bronzer 191",simple
+C-B193R,"Refill - B193 PPowder Bronzer 193",simple
+C-B194R,"Refill - Bronzer 194 - 10g",simple
+C-B20R,"Refill - B20 PPowder Bronzer 20",simple
+C-DBDR,"Refill - Duo Bronzer Dark Half Moon",simple
+C-DBLR,"Refill - Duo Bronzer Light Half Moon",simple
+sheerglo_compact_color,"Sheer Glow - Compact",configurable
+C-SGCPC,"Compact - Sheer Glo Crushed Pearl PP",simple
+C-SGPC,"Compact - Sheer Glow -Pearl C",simple
+C-SGPIC,"Compact - Sheer Glo - Pearl Intense Dark PP",simple
+C-SGPLC,"Compact - Sheer Glow -Platinum C",simple
+C-SGRGC,"Compact - Sheer Glow -Rusty gold C",simple
+C-SGSKC,"Compact - Sheer Glo Sun Kiss PP",simple
+sheerglo_refill_color,"Sheer Glow - Refill",configurable
+C-SGCPR,"Refill - Sheer Glo Crushed Pearl PP",simple
+C-SGPIR,"Refill - Sheer Glo - Pearl Intense Dark PP",simple
+C-SGPLR,"Refill - Sheer Glow -Platinum C",simple
+C-SGPR,"Refill - Sheer Glow -Pearl C",simple
+C-SGRGR,"Refilll - Sheer Glow -Rusty gold C",simple
+C-SGSKR,"Refill - Sheer Glo Sun Kiss PP",simple
+SPV,"Skin Perfecting Veil",configurable
+C-SPVA,"Skin Perfection Veil 20ml Almond",simple
+C-SPVAM,"Skin Perfection Veil 20ml Amber",simple
+C-SPVC,"Skin Perfection Veil 20ml Clear",simple
+C-SPVL,"Skin Perfection Veil 20ml Light",simple
+C-SPVM,"Skin Perfection Veil 20ml Medium",simple
+wd_dual_foundation,"WD Dual Foundation",configurable
+C-WD200-STNDP,"WD - Extra Light Porcelain",simple
+C-WD201-STNDP,"WD - Light Porcelian",simple
+C-WD202-STNDP,"WD - Porcelain",simple
+C-WD203-STNDP,"WD - Medium Beige",simple
+C-WD204-STNDP,"WD - Dark Tan",simple
+C-WD205-STNDP,"WD - Mocha",simple
+C-WD206-STNDP,"WD - Ebony",simple
+C-WD207-STNDP,"WD - Caramel",simple
+C-WD208-STNDP,"WD - Coffee Bean",simple
+C-WD209-STNDP,"WD - Amber",simple
+C-WD210-STNDP,"WD - Congac",simple
+C-WD211-STNDP,"WD - Medium Light Porcelain",simple
+C-WD212-STNDP,"WD - Medium Porcelian",simple
+C-WD250-STNDP,"WD - Light Ivory",simple
+C-WD251-STNDP,"WD - Ivory",simple
+C-WD252-STNDP,"WD - Medium Ivory",simple
+C-WD253-STNDP,"WD - Medium Tan",simple
+C-WD254-STNDP,"WD - Tang",simple
+C-WD255-STNDP,"WD - Almond",simple
+C-WD256-STNDP,"WD - Golden Honey",simple
+C-WD257-STNDP,"WD - Honey Chesnut",simple
+WD_Foundation_Refill,"Dual Powder Foundation Refill",configurable
+C-WD200R,"Refill - WD200 Dual Powder Foundation 10g",simple
+C-WD201R,"Refill - WD201 Dual Powder Foundation 10g",simple
+C-WD202R,"Refill - WD202 Dual Powder Foundation Porcelian 10g",simple
+C-WD203R,"Refill - WD203 Dual Powder Foundation Medium Beige10g",simple
+C-WD204R,"Refill - WD204 Dual Powder Foundation Dark Tan 10g",simple
+C-WD205R,"Refill - WD205 Dual Powder Foundation Mocha 10g",simple
+C-WD206R,"Refill - WD206 Dual Powder Foundation  Ebony 10g",simple
+C-WD207R,"Refill - WD207 Dual Powder Foundation Caramel10g",simple
+C-WD208R,"Refill - WD208 Dual Powder Foundation Coffee Bean Refill",simple
+C-WD209R,"Refill - WD209 Dual Powder Foundation Amber 10g",simple
+C-WD210R,"Refill - WD210 Dual Powder Foundation Congac 10g",simple
+C-WD211R,"Refill - WD211 Dual Powder Foundation Medium Light Porcelian 10g",simple
+C-WD212R,"Refill - WD212 Dual Powder Foundation Medium Porcelian 10g",simple
+C-WD250R,"Refill - WD250 Dual Powder Foundation Light Ivory 10g",simple
+C-WD251R,"Refill - WD251 Dual Powder Foundation  Ivory 10g",simple
+C-WD252R,"Refill - WD252 Dual Powder Foundation  Medium Ivory 10g",simple
+C-WD253R,"Refill - WD253 Dual Powder Foundation Medium Tan10g",simple
+C-WD254R,"Refill - WD254 Dual Powder Foundation Tan",simple
+C-WD255R,"Refill - WD255 Dual Powder Foundation  Almond 10g",simple
+C-WD256R,"Refill - WD256 Dual Powder Foundation Golden Honey 10g",simple
+C-WD257R,"Refill - WD257 Dual Powder Foundation Honey Chesnut 10g",simple

@@ -1,6 +1,6 @@
 <?php
 
-$file1 = fopen("dataFile.csv","r");
+$file1 = fopen("../dataFile.csv","r");
 $file2 = fopen("t1_copy.csv","r");
 $file3 = fopen("t2_copy.csv","w");
 
@@ -19,8 +19,7 @@ while (($row = fgetcsv($file1)) !== FALSE) {
 	$skus1[] = $row[0]; 
 	$names[] = $row[2];
 }
-	//print_r($skus1);
-//print_r($names);
+
 $count = 0;
 
 while (($row = fgetcsv($file2)) !== FALSE) {
@@ -30,11 +29,17 @@ while (($row = fgetcsv($file2)) !== FALSE) {
 		fputcsv($file3, $array);
 		continue;
 	}
-	//print_r($names);
+	
+	$onetime = 0;
 	foreach ($skus1 as $key => $value) {
-		// /echo $value." ".$names[$key]."</br>";
-		if ($value == $row[0]){
 		
+		$onetime++;
+		if ($row[2]=="configurable" && $onetime == 1) {
+		
+			$items = array($row[0],$row[1],"configurable");
+			fputcsv($file3, $items);
+		}
+		if ($value == $row[0]){
 			$items = array($value,$names[$key],"simple");
 			fputcsv($file3, $items);
 		}
